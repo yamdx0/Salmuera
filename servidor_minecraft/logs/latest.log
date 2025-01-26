@@ -734,3 +734,35 @@
 [26Jan2025 05:20:24.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> te di la mejora y el ajolote
 [26Jan2025 05:20:45.778] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: iam lost connection: Timed out
 [26Jan2025 05:20:45.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iam left the game
+[26Jan2025 05:21:33.444] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: iam[/127.204.221.6:59211] logged in with entity id 2027 at (709.9930423271192, 12.0, -464.0096945514635)
+[26Jan2025 05:21:33.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iam joined the game
+[26Jan2025 05:21:33.503] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to iam
+[26Jan2025 05:21:33.505] [Server thread/INFO] [Jade/]: Syncing config to iam (3c3b563d-c762-335c-a4a1-5d85abbdcd0b)
+[26Jan2025 05:21:35.585] [Netty Epoll Server IO #4/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from iam
+[26Jan2025 05:22:03.528] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: iam lost connection: Timed out
+[26Jan2025 05:22:03.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iam left the game
+[26Jan2025 05:22:04.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> dios
+[26Jan2025 05:23:15.950] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: iam[/127.204.221.6:37157] logged in with entity id 2342 at (709.9930423271192, 12.0, -464.0096945514635)
+[26Jan2025 05:23:15.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iam joined the game
+[26Jan2025 05:23:16.008] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to iam
+[26Jan2025 05:23:16.010] [Server thread/INFO] [Jade/]: Syncing config to iam (3c3b563d-c762-335c-a4a1-5d85abbdcd0b)
+[26Jan2025 05:23:17.502] [Netty Epoll Server IO #4/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from iam
+[26Jan2025 05:23:46.029] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: iam lost connection: Timed out
+[26Jan2025 05:23:46.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iam left the game
+[26Jan2025 05:25:16.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> pp las minas estas son buenisimas
+[26Jan2025 05:25:30.545] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: iam[/127.204.221.6:57887] logged in with entity id 2641 at (714.4077054692842, 13.0, -478.8772736300722)
+[26Jan2025 05:25:30.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iam joined the game
+[26Jan2025 05:25:30.609] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to iam
+[26Jan2025 05:25:30.611] [Server thread/INFO] [Jade/]: Syncing config to iam (3c3b563d-c762-335c-a4a1-5d85abbdcd0b)
+[26Jan2025 05:25:32.042] [Netty Epoll Server IO #7/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from iam
+[26Jan2025 05:26:00.678] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: iam lost connection: Timed out
+[26Jan2025 05:26:00.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iam left the game
+[26Jan2025 05:27:18.393] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: iam[/127.204.221.6:58059] logged in with entity id 2828 at (714.4077054692842, 13.0, -478.8772736300722)
+[26Jan2025 05:27:18.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iam joined the game
+[26Jan2025 05:27:18.446] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to iam
+[26Jan2025 05:27:18.448] [Server thread/INFO] [Jade/]: Syncing config to iam (3c3b563d-c762-335c-a4a1-5d85abbdcd0b)
+[26Jan2025 05:27:19.867] [Netty Epoll Server IO #3/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from iam
+[26Jan2025 05:27:44.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> a
+[26Jan2025 05:27:47.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> ya mejoro?
+[26Jan2025 05:27:48.478] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: iam lost connection: Timed out
+[26Jan2025 05:27:48.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iam left the game
