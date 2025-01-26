@@ -766,3 +766,6 @@
 [26Jan2025 05:27:47.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> ya mejoro?
 [26Jan2025 05:27:48.478] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: iam lost connection: Timed out
 [26Jan2025 05:27:48.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iam left the game
+[26Jan2025 05:33:07.810] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Marcus_988 moved wrongly!
+[26Jan2025 05:39:01.628] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Marcus_988 lost connection: Disconnected
+[26Jan2025 05:39:01.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Marcus_988 left the game
