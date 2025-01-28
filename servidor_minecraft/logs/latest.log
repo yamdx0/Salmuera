@@ -726,3 +726,60 @@
 [28Jan2025 20:16:41.403] [Netty Epoll Server IO #3/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from iam
 [28Jan2025 20:17:09.853] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: iam lost connection: Timed out
 [28Jan2025 20:17:09.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iam left the game
+[28Jan2025 20:19:28.621] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: iam[/127.204.221.6:35083] logged in with entity id 2153 at (37.5, 83.0, -24.5)
+[28Jan2025 20:19:28.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iam joined the game
+[28Jan2025 20:19:28.650] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to iam
+[28Jan2025 20:19:28.656] [Server thread/INFO] [Jade/]: Syncing config to iam (3c3b563d-c762-335c-a4a1-5d85abbdcd0b)
+[28Jan2025 20:19:30.263] [Netty Epoll Server IO #0/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from iam
+[28Jan2025 20:20:05.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> a
+[28Jan2025 20:21:52.553] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@30bb9100[id=<null>,name=Marcus_988,properties={},legacy=false] (/127.25.5.127:44065) lost connection: Disconnected
+[28Jan2025 20:22:32.703] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6e5c218b[id=<null>,name=Marcus_988,properties={},legacy=false] (/127.92.100.165:44619) lost connection: Disconnected
+[28Jan2025 20:24:06.127] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Marcus_988[/127.19.35.79:50895] logged in with entity id 2569 at (418.9292104672458, 129.0, -649.8031546778012)
+[28Jan2025 20:24:06.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Marcus_988 joined the game
+[28Jan2025 20:24:06.139] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to Marcus_988
+[28Jan2025 20:24:06.141] [Server thread/INFO] [Jade/]: Syncing config to Marcus_988 (abdfa706-479d-3047-a226-350e9072f00e)
+[28Jan2025 20:24:07.632] [Netty Epoll Server IO #7/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from Marcus_988
+[28Jan2025 20:24:30.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> pinga alfin ño
+[28Jan2025 20:24:40.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> viste lo de los hornos?
+[28Jan2025 20:24:48.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> el que cosa
+[28Jan2025 20:24:52.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> ven mira
+[28Jan2025 20:24:55.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> casa
+[28Jan2025 20:24:56.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [iam: Teleported iam to Marcus_988]
+[28Jan2025 20:25:06.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [iam: Teleported iam to Marcus_988]
+[28Jan2025 20:25:06.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> mira lo que tienes ahi
+[28Jan2025 20:25:20.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> en todos
+[28Jan2025 20:25:24.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> pp que bulto de hierro
+[28Jan2025 20:25:32.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> necesito hacerme una armadura nueva
+[28Jan2025 20:25:51.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> necesitamos hacer decoracion tambien pa la casa
+[28Jan2025 20:26:01.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> y en tu inventario debe haver algo creo q un pez de estos
+[28Jan2025 20:26:03.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> a
+[28Jan2025 20:26:07.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> pp tu estas seguro
+[28Jan2025 20:26:09.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> a
+[28Jan2025 20:26:13.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> a
+[28Jan2025 20:26:17.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> que la antorcha hace que no spawneen mobs?
+[28Jan2025 20:26:18.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> a
+[28Jan2025 20:26:24.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> no se e
+[28Jan2025 20:26:29.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> a
+[28Jan2025 20:26:32.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> porque me encontre 2 creepers al salir de la casa
+[28Jan2025 20:26:36.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> y esqueletos
+[28Jan2025 20:26:48.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> en el techo hay otro
+[28Jan2025 20:26:53.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> a
+[28Jan2025 20:26:56.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> me ves lag?
+[28Jan2025 20:26:59.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> no
+[28Jan2025 20:27:03.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> ños
+[28Jan2025 20:27:03.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> vas bien
+[28Jan2025 20:27:08.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> tengo bastantes semillas
+[28Jan2025 20:27:16.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> p tu sabes lo que estaria bien
+[28Jan2025 20:27:19.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> revisa tu inventario
+[28Jan2025 20:27:20.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> hacer como un invernadero
+[28Jan2025 20:27:25.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> como en la cienaga de alejandro
+[28Jan2025 20:27:27.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> revisa tu inventario
+[28Jan2025 20:27:28.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> revisa tu inventario
+[28Jan2025 20:27:34.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> que paso
+[28Jan2025 20:27:46.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> deveria gaver un cubo con un pez
+[28Jan2025 20:28:42.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> pp porque hay un cofre con piedra
+[28Jan2025 20:28:45.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> coge lo que quieras, diamantes hierro esmeraldas
+[28Jan2025 20:28:47.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> y el otro con madera
+[28Jan2025 20:28:52.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> pp no se
+[28Jan2025 20:28:58.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> organisa ocmo quieras
+[28Jan2025 20:29:04.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> hay que hacer un cofre pa los bloques
