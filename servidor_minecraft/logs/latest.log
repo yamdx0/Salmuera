@@ -1,19 +1,19 @@
-[28Jan2025 20:09:14.643] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
-[28Jan2025 20:09:14.649] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.13 by Ubuntu; OS Linux arch amd64 version 6.5.0-1025-azure
-[28Jan2025 20:09:16.529] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[28Jan2025 20:09:16.608] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/Salmuera/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[28Jan2025 20:09:17.053] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Salmuera/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
-[28Jan2025 20:09:17.054] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Salmuera/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[28Jan2025 20:09:17.055] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Salmuera/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[28Jan2025 20:09:17.056] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Salmuera/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[28Jan2025 20:09:17.381] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
-[28Jan2025 20:09:17.383] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 15 dependencies adding them to mods collection
-[28Jan2025 20:09:21.261] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[28Jan2025 20:09:21.674] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[28Jan2025 20:09:21.874] [main/WARN] [mixin/]: Reference map 'handcrafted-forge-1.20.1-forge-refmap.json' for handcrafted.mixins.json could not be read. If this is a development environment you can ignore this message
-[28Jan2025 20:09:22.340] [main/INFO] [Radium Config/]: Loaded configuration file for Radium: 125 options available, 1 override(s) found
-[28Jan2025 20:09:22.523] [main/WARN] [mixin/]: Reference map 'coroutil.refmap.json' for coroutil.mixins.json could not be read. If this is a development environment you can ignore this message
-[28Jan2025 20:09:22.678] [main/INFO] [Puzzles Lib/]: Loading 92 mods:
+[29Jan2025 01:44:09.065] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[29Jan2025 01:44:09.070] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.13 by Ubuntu; OS Linux arch amd64 version 6.5.0-1025-azure
+[29Jan2025 01:44:11.288] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[29Jan2025 01:44:11.356] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/Salmuera/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[29Jan2025 01:44:11.805] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Salmuera/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[29Jan2025 01:44:11.806] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Salmuera/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[29Jan2025 01:44:11.807] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Salmuera/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[29Jan2025 01:44:11.808] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Salmuera/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[29Jan2025 01:44:12.140] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
+[29Jan2025 01:44:12.143] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 15 dependencies adding them to mods collection
+[29Jan2025 01:44:15.596] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[29Jan2025 01:44:15.863] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[29Jan2025 01:44:16.047] [main/WARN] [mixin/]: Reference map 'handcrafted-forge-1.20.1-forge-refmap.json' for handcrafted.mixins.json could not be read. If this is a development environment you can ignore this message
+[29Jan2025 01:44:16.195] [main/INFO] [Radium Config/]: Loaded configuration file for Radium: 125 options available, 1 override(s) found
+[29Jan2025 01:44:16.334] [main/WARN] [mixin/]: Reference map 'coroutil.refmap.json' for coroutil.mixins.json could not be read. If this is a development environment you can ignore this message
+[29Jan2025 01:44:16.396] [main/INFO] [Puzzles Lib/]: Loading 92 mods:
 	- ad_astra 1.15.19
 	- almanac 1.0.2
 	- appleskin 2.5.1+mc1.20.1
@@ -106,789 +106,588 @@
 	- xercapaint 1.20.1-1.0.1
 	- yungsapi 1.20-Forge-4.0.6
 	- zeta 1.0-24
-[28Jan2025 20:09:22.694] [main/WARN] [mixin/]: Reference map 'chiselsandbits.refmap.json' for chisels-and-bits.mixins.json could not be read. If this is a development environment you can ignore this message
-[28Jan2025 20:09:24.664] [main/WARN] [Radium Config/]: Force-disabling mixin 'alloc.blockstate.StateMixin' as option 'mixin.alloc.blockstate' (added by mods [ferritecore]) disables it and children
-[28Jan2025 20:09:25.544] [main/WARN] [mixin/]: Error loading class: dev/ftb/mods/ftbchunks/data/ClaimedChunkManagerImpl (java.lang.ClassNotFoundException: dev.ftb.mods.ftbchunks.data.ClaimedChunkManagerImpl)
-[28Jan2025 20:09:25.545] [main/WARN] [mixin/]: @Mixin target dev.ftb.mods.ftbchunks.data.ClaimedChunkManagerImpl was not found mixins.does_it_tick.json:ClaimedChunkManagerAccessor
-[28Jan2025 20:09:25.736] [main/WARN] [mixin/]: Error loading class: noobanidus/mods/lootr/config/ConfigManager (java.lang.ClassNotFoundException: noobanidus.mods.lootr.config.ConfigManager)
-[28Jan2025 20:09:25.838] [main/INFO] [memoryleakfix/]: [MemoryLeakFix] Will be applying 1 memory leak fixes!
-[28Jan2025 20:09:25.839] [main/INFO] [memoryleakfix/]: [MemoryLeakFix] Currently enabled memory leak fixes: [biomeTemperatureLeak]
-[28Jan2025 20:09:26.072] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.6).
-[28Jan2025 20:09:34.298] [modloading-worker-0/INFO] [scena-forge/]: Initialized scena-forge
-[28Jan2025 20:09:35.130] [modloading-worker-0/INFO] [Collective/]: Loading Collective version 7.87.
-[28Jan2025 20:09:35.152] [modloading-worker-0/INFO] [noisium/]: Loading Noisium.
-[28Jan2025 20:09:35.305] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
-[28Jan2025 20:09:35.313] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id pandalib:config_sync
-[28Jan2025 20:09:35.674] [modloading-worker-0/INFO] [fallingtrees | Config/]: Successfully loaded config 'fallingtrees_common'
-[28Jan2025 20:09:35.682] [modloading-worker-0/INFO] [fallingtrees | Config/]: Successfully saved config 'fallingtrees_common'
-[28Jan2025 20:09:35.981] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for easymagic:main
-[28Jan2025 20:09:36.021] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for visualworkbench:main
-[28Jan2025 20:09:36.376] [modloading-worker-0/INFO] [coroutil/]: forge loader environment detected
-[28Jan2025 20:09:36.388] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
-[28Jan2025 20:09:36.389] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
-[28Jan2025 20:09:36.391] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/42a7ad70b1cc371599a0eff744096b8a
-[28Jan2025 20:09:36.392] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/74a5e841822a3a87854ae896a33430d6
-[28Jan2025 20:09:36.393] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/eb3d1e2748533430848cadf0f37c7e9c
-[28Jan2025 20:09:36.396] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/91c8520f19f93b3e8b6a727568e194ab
-[28Jan2025 20:09:36.397] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/8c2784d778293fd482ed84b8aa5fedb9
-[28Jan2025 20:09:36.398] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/ea038224ea783d40b2863f52239e2604
-[28Jan2025 20:09:36.419] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/97ad64b7ecaf33209991c4f031501a58
-[28Jan2025 20:09:36.631] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for magnumtorch:main
-[28Jan2025 20:09:36.650] [modloading-worker-0/INFO] [Ksyxis/]: Ksyxis: Booting... (platform: Forge, manual: false)
-[28Jan2025 20:09:36.654] [modloading-worker-0/INFO] [Ksyxis/]: Ksyxis: Found Mixin library. (version: 0.8.5)
-[28Jan2025 20:09:36.660] [modloading-worker-0/INFO] [Ksyxis/]: Ksyxis: Ready. As always, this mod will speed up your world loading and might or might not break it.
-[28Jan2025 20:09:36.662] [modloading-worker-0/INFO] [Spartan Shields/]: Constructing Mod: Spartan Shields
-[28Jan2025 20:09:36.872] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for puzzleslib:main
-[28Jan2025 20:09:36.902] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
-[28Jan2025 20:09:36.907] [modloading-worker-0/INFO] [mod.chiselsandbits.forge.Forge/]: Initialized Chisels&Bits - Forge
-[28Jan2025 20:09:37.017] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModBlockEntityTypes/]: Loaded block entity configuration.
-[28Jan2025 20:09:37.032] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModBlocks/]: Loaded block configuration.
-[28Jan2025 20:09:37.046] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModChiselModeGroups/]: Loaded chisel mode group configuration.
-[28Jan2025 20:09:37.453] [modloading-worker-0/INFO] [quark-zeta/]: Discovered 164 modules to load.
-[28Jan2025 20:09:37.453] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Abacus...
-[28Jan2025 20:09:37.458] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Adjustable Chat...
-[28Jan2025 20:09:37.458] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Ambient Discs...
-[28Jan2025 20:09:37.459] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Ancient Tomes...
-[28Jan2025 20:09:37.468] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Ancient Wood...
-[28Jan2025 20:09:37.479] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Armed Armor Stands...
-[28Jan2025 20:09:37.479] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Auto Walk Keybind...
-[28Jan2025 20:09:37.480] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Automatic Recipe Unlock...
-[28Jan2025 20:09:37.480] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Automatic Tool Restock...
-[28Jan2025 20:09:37.482] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Azalea Wood...
-[28Jan2025 20:09:37.483] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Back Button Keybind...
-[28Jan2025 20:09:37.483] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Backpack...
-[28Jan2025 20:09:37.488] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Beacon Redirection...
-[28Jan2025 20:09:37.489] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Better Elytra Rocket...
-[28Jan2025 20:09:37.489] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Big Stone Clusters...
-[28Jan2025 20:09:37.495] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Blossom Trees...
-[28Jan2025 20:09:37.496] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Bottled Cloud...
-[28Jan2025 20:09:37.498] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Buckets Show Inhabitants...
-[28Jan2025 20:09:37.498] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Camera...
-[28Jan2025 20:09:37.499] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Campfires Boost Elytra...
-[28Jan2025 20:09:37.500] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Celebratory Lamps...
-[28Jan2025 20:09:37.500] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Chains Connect Blocks...
-[28Jan2025 20:09:37.501] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Chest Searching...
-[28Jan2025 20:09:37.501] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Chorus Vegetation...
-[28Jan2025 20:09:37.503] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Chute...
-[28Jan2025 20:09:37.504] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Climate Control Remover...
-[28Jan2025 20:09:37.504] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Color Runes...
-[28Jan2025 20:09:37.507] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Compasses Work Everywhere...
-[28Jan2025 20:09:37.507] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Compressed Blocks...
-[28Jan2025 20:09:37.508] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Coral On Cactus...
-[28Jan2025 20:09:37.508] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Corundum...
-[28Jan2025 20:09:37.598] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Crabs...
-[28Jan2025 20:09:37.600] [modloading-worker-0/ERROR] [zeta/]: Client event interface org.violetmoon.zeta.client.event.load.ZClientSetup was found in a non client only class!
-[28Jan2025 20:09:37.600] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Crafter...
-[28Jan2025 20:09:37.601] [modloading-worker-0/ERROR] [zeta/]: Client event interface org.violetmoon.zeta.client.event.load.ZClientSetup was found in a non client only class!
-[28Jan2025 20:09:37.602] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Crate...
-[28Jan2025 20:09:37.603] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Diamond Repair...
-[28Jan2025 20:09:37.603] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Dispensers Place Blocks...
-[28Jan2025 20:09:37.603] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Double Door Opening...
-[28Jan2025 20:09:37.604] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Dragon Scales...
-[28Jan2025 20:09:37.608] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Duskbound Blocks...
-[28Jan2025 20:09:37.609] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Dyeable Item Frames...
-[28Jan2025 20:09:37.610] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Easy Transfering...
-[28Jan2025 20:09:37.612] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Elytra Indicator...
-[28Jan2025 20:09:37.612] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Emotes...
-[28Jan2025 20:09:37.613] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Enchantment Predicates...
-[28Jan2025 20:09:37.614] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Enchantments Begone...
-[28Jan2025 20:09:37.616] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Ender Watcher...
-[28Jan2025 20:09:37.621] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Endermosh Music Disc...
-[28Jan2025 20:09:37.622] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Enhanced Ladders...
-[28Jan2025 20:09:37.623] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Expanded Item Interactions...
-[28Jan2025 20:09:37.624] [modloading-worker-0/ERROR] [zeta/]: Client event interface org.violetmoon.zeta.client.event.load.ZClientSetup was found in a non client only class!
-[28Jan2025 20:09:37.628] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Fairy Rings...
-[28Jan2025 20:09:37.629] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Fallen Logs...
-[28Jan2025 20:09:37.630] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Feeding Trough...
-[28Jan2025 20:09:37.632] [modloading-worker-0/ERROR] [zeta/]: Client event interface org.violetmoon.zeta.client.event.load.ZClientSetup was found in a non client only class!
-[28Jan2025 20:09:37.644] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Forgotten...
-[28Jan2025 20:09:37.665] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Foxhound...
-[28Jan2025 20:09:37.671] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Framed Glass...
-[28Jan2025 20:09:37.673] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Game Nerfs...
-[28Jan2025 20:09:37.675] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Glass Item Frame...
-[28Jan2025 20:09:37.680] [modloading-worker-0/ERROR] [zeta/]: Client event interface org.violetmoon.zeta.client.event.load.ZClientSetup was found in a non client only class!
-[28Jan2025 20:09:37.680] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Glass Shard...
-[28Jan2025 20:09:37.681] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Glimmering Weald...
-[28Jan2025 20:09:37.709] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Gold Bars...
-[28Jan2025 20:09:37.709] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Gold Tools Have Fortune...
-[28Jan2025 20:09:37.710] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Grab Chickens...
-[28Jan2025 20:09:37.710] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Grate...
-[28Jan2025 20:09:37.714] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Gravisand...
-[28Jan2025 20:09:37.717] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Greener Grass...
-[28Jan2025 20:09:37.718] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Hedges...
-[28Jan2025 20:09:37.719] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Hoe Harvesting...
-[28Jan2025 20:09:37.720] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Hollow Logs...
-[28Jan2025 20:09:37.720] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Horses Swim...
-[28Jan2025 20:09:37.721] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Hotbar Changer...
-[28Jan2025 20:09:37.721] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Improved Sponges...
-[28Jan2025 20:09:37.721] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Improved Tooltips...
-[28Jan2025 20:09:37.722] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Industrial Palette...
-[28Jan2025 20:09:37.723] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Inventory Sorting...
-[28Jan2025 20:09:37.724] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Iron Rod...
-[28Jan2025 20:09:37.730] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Item Sharing...
-[28Jan2025 20:09:37.730] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Japanese Palette...
-[28Jan2025 20:09:37.731] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Leaf Carpet...
-[28Jan2025 20:09:37.731] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Lock Rotation...
-[28Jan2025 20:09:37.732] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Long Range Pick Block...
-[28Jan2025 20:09:37.732] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Magma Keeps Concrete Powder...
-[28Jan2025 20:09:37.733] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Magnets...
-[28Jan2025 20:09:37.735] [modloading-worker-0/ERROR] [zeta/]: Client event interface org.violetmoon.zeta.client.event.load.ZClientSetup was found in a non client only class!
-[28Jan2025 20:09:37.735] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Map Washing...
-[28Jan2025 20:09:37.736] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Matrix Enchanting...
-[28Jan2025 20:09:37.741] [modloading-worker-0/ERROR] [zeta/]: Client event interface org.violetmoon.zeta.client.event.load.ZClientSetup was found in a non client only class!
-[28Jan2025 20:09:37.743] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Metal Buttons...
-[28Jan2025 20:09:37.743] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Microcrafting Helper...
-[28Jan2025 20:09:37.743] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Midori...
-[28Jan2025 20:09:37.744] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Monster Box...
-[28Jan2025 20:09:37.744] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module More Banner Layers...
-[28Jan2025 20:09:37.745] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module More Brick Types...
-[28Jan2025 20:09:37.746] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module More Mud Blocks...
-[28Jan2025 20:09:37.747] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module More Note Block Sounds...
-[28Jan2025 20:09:37.748] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module More Potted Plants...
-[28Jan2025 20:09:37.748] [modloading-worker-0/ERROR] [zeta/]: Client event interface org.violetmoon.zeta.client.event.load.ZClientSetup was found in a non client only class!
-[28Jan2025 20:09:37.748] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module More Villagers...
-[28Jan2025 20:09:37.749] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Narrator Readout...
-[28Jan2025 20:09:37.749] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Nether Brick Fence Gate...
-[28Jan2025 20:09:37.749] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Nether Obsidian Spikes...
-[28Jan2025 20:09:37.750] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module New Stone Types...
-[28Jan2025 20:09:37.757] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module No Durability On Cosmetics...
-[28Jan2025 20:09:37.758] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module No More Lava Pockets...
-[28Jan2025 20:09:37.758] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Obsidian Plate...
-[28Jan2025 20:09:37.758] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Overlay Shader...
-[28Jan2025 20:09:37.759] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Parrot Eggs...
-[28Jan2025 20:09:37.759] [modloading-worker-0/ERROR] [zeta/]: Client event interface org.violetmoon.zeta.client.event.load.ZClientSetup was found in a non client only class!
-[28Jan2025 20:09:37.759] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Pat The Dogs...
-[28Jan2025 20:09:37.762] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Pathfinder Maps...
-[28Jan2025 20:09:37.764] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Permafrost...
-[28Jan2025 20:09:37.765] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Petals On Water...
-[28Jan2025 20:09:37.766] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Pickarang...
-[28Jan2025 20:09:37.768] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Pig Litters...
-[28Jan2025 20:09:37.769] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Pipes...
-[28Jan2025 20:09:37.772] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Pistons Move Tile Entities...
-[28Jan2025 20:09:37.774] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Poison Potato Usage...
-[28Jan2025 20:09:37.774] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Quick Armor Swapping...
-[28Jan2025 20:09:37.775] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Rainbow Lamps...
-[28Jan2025 20:09:37.775] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Raw Metal Bricks...
-[28Jan2025 20:09:37.775] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Reacharound Placing...
-[28Jan2025 20:09:37.777] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Redstone Randomizer...
-[28Jan2025 20:09:37.778] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Renewable Spore Blossoms...
-[28Jan2025 20:09:37.778] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Replace Scaffolding...
-[28Jan2025 20:09:37.779] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Rope...
-[28Jan2025 20:09:37.781] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Safer Creatures...
-[28Jan2025 20:09:37.781] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Seed Pouch...
-[28Jan2025 20:09:37.783] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Shear Vines...
-[28Jan2025 20:09:37.792] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Shiba...
-[28Jan2025 20:09:37.792] [modloading-worker-0/ERROR] [zeta/]: Client event interface org.violetmoon.zeta.client.event.load.ZClientSetup was found in a non client only class!
-[28Jan2025 20:09:37.793] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Shingles...
-[28Jan2025 20:09:37.793] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Shulker Packing...
-[28Jan2025 20:09:37.794] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Simple Harvest...
-[28Jan2025 20:09:37.795] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Skull Pikes...
-[28Jan2025 20:09:37.797] [modloading-worker-0/ERROR] [zeta/]: Client event interface org.violetmoon.zeta.client.event.load.ZClientSetup was found in a non client only class!
-[28Jan2025 20:09:37.798] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Slabs To Blocks...
-[28Jan2025 20:09:37.798] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Slime In A Bucket...
-[28Jan2025 20:09:37.799] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Slimes To Magma Cubes...
-[28Jan2025 20:09:37.800] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Snow Golem Player Heads...
-[28Jan2025 20:09:37.800] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Soul Candles...
-[28Jan2025 20:09:37.801] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Soul Sandstone...
-[28Jan2025 20:09:37.801] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Spawner Replacer...
-[28Jan2025 20:09:37.801] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Spiral Spires...
-[28Jan2025 20:09:37.803] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Stonelings...
-[28Jan2025 20:09:37.804] [modloading-worker-0/ERROR] [zeta/]: Client event interface org.violetmoon.zeta.client.event.load.ZClientSetup was found in a non client only class!
-[28Jan2025 20:09:37.804] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Stools...
-[28Jan2025 20:09:37.805] [modloading-worker-0/ERROR] [zeta/]: Client event interface org.violetmoon.zeta.client.event.load.ZClientSetup was found in a non client only class!
-[28Jan2025 20:09:37.805] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Sturdy Stone...
-[28Jan2025 20:09:37.806] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Thatch...
-[28Jan2025 20:09:37.807] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Tiny Potato...
-[28Jan2025 20:09:37.808] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Torch Arrow...
-[28Jan2025 20:09:37.818] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Toretoise...
-[28Jan2025 20:09:37.818] [modloading-worker-0/ERROR] [zeta/]: Client event interface org.violetmoon.zeta.client.event.load.ZClientSetup was found in a non client only class!
-[28Jan2025 20:09:37.819] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Totem Of Holding...
-[28Jan2025 20:09:37.821] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Trowel...
-[28Jan2025 20:09:37.822] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Usage Ticker...
-[28Jan2025 20:09:37.823] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Uses For Curses...
-[28Jan2025 20:09:37.823] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Utility Recipes...
-[28Jan2025 20:09:37.824] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Variant Animal Textures...
-[28Jan2025 20:09:37.825] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Variant Bookshelves...
-[28Jan2025 20:09:37.825] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Variant Chests...
-[28Jan2025 20:09:37.836] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Variant Furnaces...
-[28Jan2025 20:09:37.843] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Variant Ladders...
-[28Jan2025 20:09:37.844] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Variant Selector...
-[28Jan2025 20:09:37.846] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Vertical Planks...
-[28Jan2025 20:09:37.846] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Vertical Slabs...
-[28Jan2025 20:09:37.862] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Vexes Die With Their Masters...
-[28Jan2025 20:09:37.863] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Villager Rerolling Rework...
-[28Jan2025 20:09:37.865] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Villagers Follow Emeralds...
-[28Jan2025 20:09:37.867] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Wooden Posts...
-[28Jan2025 20:09:37.868] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Wool Shuts Up Minecarts...
-[28Jan2025 20:09:37.869] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Wraith...
-[28Jan2025 20:09:37.870] [modloading-worker-0/ERROR] [zeta/]: Client event interface org.violetmoon.zeta.client.event.load.ZClientSetup was found in a non client only class!
-[28Jan2025 20:09:37.870] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Zombie Villagers On Normal...
-[28Jan2025 20:09:37.871] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module More Stone Variants...
-[28Jan2025 20:09:37.871] [modloading-worker-0/INFO] [quark-zeta/]: Constructed 164 modules.
-[28Jan2025 20:09:38.050] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file /workspaces/Salmuera/servidor_minecraft/config/quark-common.toml is not correct. Correcting
-[28Jan2025 20:09:38.473] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModChiselModes/]: Loaded chisel mode configuration.
-[28Jan2025 20:09:38.475] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModContainerTypes/]: Loaded container type configuration.
-[28Jan2025 20:09:38.478] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModCreativeTabs/]: Loaded item group configuration.
-[28Jan2025 20:09:38.512] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModItems/]: Loaded item configuration.
-[28Jan2025 20:09:38.516] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModMetadataKeys/]: Loaded metadata key configuration.
-[28Jan2025 20:09:38.521] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModModelProperties/]: Loaded model property configuration.
-[28Jan2025 20:09:38.527] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModModificationOperation/]: Loaded modification operation configuration.
-[28Jan2025 20:09:38.528] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModModificationOperationGroups/]: Loaded modification operation group configuration.
-[28Jan2025 20:09:38.537] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModPatternPlacementTypes/]: Loaded pattern placement type configuration.
-[28Jan2025 20:09:38.539] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModRecipeSerializers/]: Loaded recipe serializer configuration.
-[28Jan2025 20:09:38.541] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModTags/]: Loaded tag configuration.
-[28Jan2025 20:09:38.543] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModRecipeTypes/]: Registering recipe types.
-[28Jan2025 20:09:38.544] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModEventHandler/]: Registering event handlers
-[28Jan2025 20:09:42.678] [main/INFO] [Moonlight/]: Initialized block sets in 16ms
-[28Jan2025 20:09:43.116] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / mca:male_zombie_villager] was not realized!
-[28Jan2025 20:09:43.116] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / mca:female_zombie_villager] was not realized!
-[28Jan2025 20:09:43.116] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / mca:male_villager] was not realized!
-[28Jan2025 20:09:43.116] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / mca:grim_reaper] was not realized!
-[28Jan2025 20:09:43.116] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / artifacts:mimic] was not realized!
-[28Jan2025 20:09:43.117] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / mca:female_villager] was not realized!
-[28Jan2025 20:09:43.118] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / artifacts:mimic] was not realized!
-[28Jan2025 20:09:43.633] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[28Jan2025 20:09:43.634] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[28Jan2025 20:09:43.634] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[28Jan2025 20:09:43.634] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[28Jan2025 20:09:43.634] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[28Jan2025 20:09:43.634] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[28Jan2025 20:09:43.635] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[28Jan2025 20:09:43.635] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
-[28Jan2025 20:09:43.636] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[28Jan2025 20:09:43.637] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[28Jan2025 20:09:43.637] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[28Jan2025 20:09:43.637] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[28Jan2025 20:09:43.637] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[28Jan2025 20:09:43.637] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[28Jan2025 20:09:43.638] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[28Jan2025 20:09:43.638] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[28Jan2025 20:09:43.638] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[28Jan2025 20:09:43.638] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[28Jan2025 20:09:43.638] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[28Jan2025 20:09:43.639] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
-[28Jan2025 20:09:43.639] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[28Jan2025 20:09:43.642] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[28Jan2025 20:09:43.642] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
-[28Jan2025 20:09:43.643] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[28Jan2025 20:09:43.643] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
-[28Jan2025 20:09:43.643] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
-[28Jan2025 20:09:43.643] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[28Jan2025 20:09:43.643] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[28Jan2025 20:09:43.644] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[28Jan2025 20:09:43.644] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[28Jan2025 20:09:43.644] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[28Jan2025 20:09:43.646] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[28Jan2025 20:09:43.650] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[28Jan2025 20:09:43.650] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[28Jan2025 20:09:43.651] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[28Jan2025 20:09:43.651] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[28Jan2025 20:09:43.651] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[28Jan2025 20:09:43.652] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.GrimReaperEntity from class forge.net.mca.util.network.datasync.CEnumParameter
-[28Jan2025 20:09:43.804] [main/INFO] [Spartan Shields/]: Loading config spartanshields-common.toml
-[28Jan2025 20:09:43.808] [Thread-1/INFO] [Spartan Shields/]: Loading config spartanshields-common.toml
-[28Jan2025 20:09:43.810] [main/INFO] [zeta/]: 'zeta' is enabling Zeta's piston structure resolver.
-[28Jan2025 20:09:43.982] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwwindows] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/window.json
-[28Jan2025 20:09:44.006] [modloading-worker-0/INFO] [Spartan Shields/]: Setting up Spartan Shields!
-[28Jan2025 20:09:44.086] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwwindows] Found status: UP_TO_DATE Current: 2.3.0 Target: null
-[28Jan2025 20:09:44.086] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwdoors] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/doors.json
-[28Jan2025 20:09:44.103] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwdoors] Found status: UP_TO_DATE Current: 1.1.1 Target: null
-[28Jan2025 20:09:44.104] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwtrpdoors] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/trapdoors.json
-[28Jan2025 20:09:44.118] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwtrpdoors] Found status: UP_TO_DATE Current: 1.1.4 Target: null
-[28Jan2025 20:09:44.119] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_tidal_towns] Starting version check at https://api.modrinth.com/updates/EEIwvQVo/forge_updates.json
-[28Jan2025 20:09:44.236] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 1000) with the ID 0
-[28Jan2025 20:09:44.236] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 1000) with the ID 1
-[28Jan2025 20:09:44.237] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for Uncraftable Potion (Fluid Amount Required: 250) with the ID 2
-[28Jan2025 20:09:44.237] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:milk for Milk (Fluid Amount Required: 1000) with the ID 3
-[28Jan2025 20:09:44.270] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_tidal_towns] Found status: OUTDATED Current: 1.3.4 Target: 1.3.4+mod
-[28Jan2025 20:09:44.270] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
-[28Jan2025 20:09:44.288] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: UP_TO_DATE Current: 8.9.0 Target: null
-[28Jan2025 20:09:44.289] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwfurnitures] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/furniture.json
-[28Jan2025 20:09:44.302] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwfurnitures] Found status: UP_TO_DATE Current: 3.3.0 Target: null
-[28Jan2025 20:09:44.302] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwlights] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/lights.json
-[28Jan2025 20:09:44.312] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwlights] Found status: UP_TO_DATE Current: 1.1.0 Target: null
-[28Jan2025 20:09:44.313] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [radium] Starting version check at https://api.modrinth.com/updates/radium/forge_updates.json
-[28Jan2025 20:09:44.336] [main/INFO] [Moonlight/]: Initialized color sets in 92ms
-[28Jan2025 20:09:44.382] [modloading-worker-0/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 1/2 (Server)
-[28Jan2025 20:09:44.384] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
-[28Jan2025 20:09:44.388] [main/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 2/2 (Server)
-[28Jan2025 20:09:44.388] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
-[28Jan2025 20:09:44.426] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [radium] Found status: AHEAD Current: 0.12.4+git.26c9d8e Target: null
-[28Jan2025 20:09:44.426] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easymagic] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/easymagic.json
-[28Jan2025 20:09:44.447] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easymagic] Found status: UP_TO_DATE Current: 8.0.1 Target: null
-[28Jan2025 20:09:44.447] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [visualworkbench] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/visualworkbench.json
-[28Jan2025 20:09:44.484] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [visualworkbench] Found status: UP_TO_DATE Current: 8.0.0 Target: null
-[28Jan2025 20:09:44.484] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
-[28Jan2025 20:09:44.497] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at ovh.corail.tombstone.compatibility.IntegrationJade
-[28Jan2025 20:09:44.520] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at me.pandamods.fallingtrees.compat.JadePlugin
-[28Jan2025 20:09:44.522] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.blay09.mods.waystones.compat.JadeIntegration
-[28Jan2025 20:09:44.523] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
-[28Jan2025 20:09:44.544] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
-[28Jan2025 20:09:44.550] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
-[28Jan2025 20:09:44.552] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.geforcemods.securitycraft.compat.hudmods.JadeDataProvider
-[28Jan2025 20:09:44.561] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Found status: UP_TO_DATE Current: 9.1.16 Target: null
-[28Jan2025 20:09:44.561] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzlesaccessapi.json
-[28Jan2025 20:09:44.572] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Found status: BETA Current: 8.0.7 Target: null
-[28Jan2025 20:09:44.572] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[28Jan2025 20:09:44.704] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.3.27
-[28Jan2025 20:09:44.704] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [moonlight] Starting version check at https://raw.githubusercontent.com/MehVahdJukaar/Moonlight/multi-loader/forge/update.json
-[28Jan2025 20:09:44.716] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [moonlight] Found status: BETA Current: 1.20-2.13.47 Target: null
-[28Jan2025 20:09:44.716] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [magnumtorch] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/magnumtorch.json
-[28Jan2025 20:09:44.726] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [magnumtorch] Found status: UP_TO_DATE Current: 8.0.2 Target: null
-[28Jan2025 20:09:44.727] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [ksyxis] Starting version check at https://raw.githubusercontent.com/VidTu/Ksyxis/main/updater_ksyxis_forge.json
-[28Jan2025 20:09:44.740] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [ksyxis] Found status: UP_TO_DATE Current: 1.3.2 Target: null
-[28Jan2025 20:09:44.740] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
-[28Jan2025 20:09:44.836] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: UP_TO_DATE Current: 1.9.12 Target: null
-[28Jan2025 20:09:44.836] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [serversleep_mr] Starting version check at https://api.modrinth.com/updates/Cw8IlnGM/forge_updates.json
-[28Jan2025 20:09:44.920] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [serversleep_mr] Found status: AHEAD Current: 1-datapack Target: null
-[28Jan2025 20:09:44.921] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzleslib.json
-[28Jan2025 20:09:44.931] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Found status: UP_TO_DATE Current: 8.1.25 Target: null
-[28Jan2025 20:09:44.931] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [ad_astra] Starting version check at https://api.modrinth.com/updates/3ufwT9JF/forge_updates.json
-[28Jan2025 20:09:44.980] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [ad_astra] Found status: UP_TO_DATE Current: 1.15.19 Target: null
-[28Jan2025 20:10:00.574] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[28Jan2025 20:10:10.977] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Salmuera/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23269!/assets/.mcassetsroot' uses unexpected schema
-[28Jan2025 20:10:10.977] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Salmuera/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23269!/data/.mcassetsroot' uses unexpected schema
-[28Jan2025 20:10:12.853] [Worker-Main-3/WARN] [artifacts.Artifacts/]: Tag entries for curios:tags/items/magic_book.json cleared by tombstone-1.20.1-8.9.0.jar
-[28Jan2025 20:10:14.381] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
-[28Jan2025 20:10:14.382] [main/WARN] [quark-zeta/]: Non-existent flag granite being used
-[28Jan2025 20:10:14.390] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
-[28Jan2025 20:10:14.391] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
-[28Jan2025 20:10:14.399] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
-[28Jan2025 20:10:14.400] [main/WARN] [quark-zeta/]: Non-existent flag andesite being used
-[28Jan2025 20:10:14.401] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
-[28Jan2025 20:10:14.402] [main/WARN] [quark-zeta/]: Non-existent flag granite being used
-[28Jan2025 20:10:14.403] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
-[28Jan2025 20:10:14.406] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
-[28Jan2025 20:10:14.410] [main/WARN] [quark-zeta/]: Non-existent flag andesite being used
-[28Jan2025 20:10:14.411] [main/WARN] [quark-zeta/]: Non-existent flag diorite being used
-[28Jan2025 20:10:14.411] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
-[28Jan2025 20:10:14.418] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
-[28Jan2025 20:10:14.419] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
-[28Jan2025 20:10:14.422] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
-[28Jan2025 20:10:14.426] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
-[28Jan2025 20:10:14.427] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
-[28Jan2025 20:10:14.427] [main/WARN] [quark-zeta/]: Non-existent flag granite being used
-[28Jan2025 20:10:14.429] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
-[28Jan2025 20:10:14.431] [main/WARN] [quark-zeta/]: Non-existent flag andesite being used
-[28Jan2025 20:10:14.432] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
-[28Jan2025 20:10:14.434] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
-[28Jan2025 20:10:14.435] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
-[28Jan2025 20:10:14.435] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
-[28Jan2025 20:10:14.436] [main/WARN] [quark-zeta/]: Non-existent flag granite being used
-[28Jan2025 20:10:14.436] [main/WARN] [quark-zeta/]: Non-existent flag andesite being used
-[28Jan2025 20:10:14.438] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
-[28Jan2025 20:10:14.440] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
-[28Jan2025 20:10:14.445] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
-[28Jan2025 20:10:14.451] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
-[28Jan2025 20:10:14.464] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
-[28Jan2025 20:10:14.464] [main/WARN] [quark-zeta/]: Non-existent flag andesite being used
-[28Jan2025 20:10:14.466] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
-[28Jan2025 20:10:14.466] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
-[28Jan2025 20:10:14.466] [main/WARN] [quark-zeta/]: Non-existent flag andesite being used
-[28Jan2025 20:10:14.468] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
-[28Jan2025 20:10:14.469] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
-[28Jan2025 20:10:14.470] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
-[28Jan2025 20:10:14.471] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
-[28Jan2025 20:10:14.472] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
-[28Jan2025 20:10:14.474] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
-[28Jan2025 20:10:14.475] [main/WARN] [quark-zeta/]: Non-existent flag andesite being used
-[28Jan2025 20:10:14.476] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
-[28Jan2025 20:10:14.477] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
-[28Jan2025 20:10:14.477] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
-[28Jan2025 20:10:14.477] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
-[28Jan2025 20:10:14.478] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
-[28Jan2025 20:10:14.479] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
-[28Jan2025 20:10:14.481] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
-[28Jan2025 20:10:14.482] [main/WARN] [quark-zeta/]: Non-existent flag granite being used
-[28Jan2025 20:10:14.487] [main/WARN] [quark-zeta/]: Non-existent flag granite being used
-[28Jan2025 20:10:14.491] [main/WARN] [quark-zeta/]: Non-existent flag granite being used
-[28Jan2025 20:10:14.491] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
-[28Jan2025 20:10:14.493] [main/WARN] [quark-zeta/]: Non-existent flag diorite being used
-[28Jan2025 20:10:14.495] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
-[28Jan2025 20:10:14.498] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
-[28Jan2025 20:10:14.498] [main/WARN] [quark-zeta/]: Non-existent flag diorite being used
-[28Jan2025 20:10:14.499] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
-[28Jan2025 20:10:14.501] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
-[28Jan2025 20:10:14.501] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
-[28Jan2025 20:10:14.504] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
-[28Jan2025 20:10:14.505] [main/WARN] [quark-zeta/]: Non-existent flag andesite being used
-[28Jan2025 20:10:14.506] [main/WARN] [quark-zeta/]: Non-existent flag diorite being used
-[28Jan2025 20:10:14.507] [main/WARN] [quark-zeta/]: Non-existent flag granite being used
-[28Jan2025 20:10:14.510] [main/WARN] [quark-zeta/]: Non-existent flag granite being used
-[28Jan2025 20:10:14.512] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
-[28Jan2025 20:10:14.514] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
-[28Jan2025 20:10:14.515] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
-[28Jan2025 20:10:14.515] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
-[28Jan2025 20:10:14.516] [main/WARN] [quark-zeta/]: Non-existent flag diorite being used
-[28Jan2025 20:10:14.516] [main/WARN] [quark-zeta/]: Non-existent flag andesite being used
-[28Jan2025 20:10:14.520] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
-[28Jan2025 20:10:14.521] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
-[28Jan2025 20:10:14.523] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
-[28Jan2025 20:10:14.523] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
-[28Jan2025 20:10:14.524] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
-[28Jan2025 20:10:14.524] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
-[28Jan2025 20:10:14.528] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
-[28Jan2025 20:10:14.529] [main/WARN] [quark-zeta/]: Non-existent flag diorite being used
-[28Jan2025 20:10:14.529] [main/WARN] [quark-zeta/]: Non-existent flag diorite being used
-[28Jan2025 20:10:14.530] [main/WARN] [quark-zeta/]: Non-existent flag diorite being used
-[28Jan2025 20:10:14.532] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
-[28Jan2025 20:10:14.533] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
-[28Jan2025 20:10:14.535] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
-[28Jan2025 20:10:14.536] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
-[28Jan2025 20:10:14.536] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
-[28Jan2025 20:10:14.537] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
-[28Jan2025 20:10:14.540] [main/WARN] [quark-zeta/]: Non-existent flag andesite being used
-[28Jan2025 20:10:14.540] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
-[28Jan2025 20:10:14.542] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
-[28Jan2025 20:10:14.543] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
-[28Jan2025 20:10:14.544] [main/WARN] [quark-zeta/]: Non-existent flag granite being used
-[28Jan2025 20:10:14.545] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
-[28Jan2025 20:10:14.545] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
-[28Jan2025 20:10:14.546] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
-[28Jan2025 20:10:14.546] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
-[28Jan2025 20:10:14.547] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
-[28Jan2025 20:10:14.547] [main/WARN] [quark-zeta/]: Non-existent flag diorite being used
-[28Jan2025 20:10:14.548] [main/WARN] [quark-zeta/]: Non-existent flag andesite being used
-[28Jan2025 20:10:14.548] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
-[28Jan2025 20:10:14.550] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
-[28Jan2025 20:10:14.551] [main/WARN] [quark-zeta/]: Non-existent flag diorite being used
-[28Jan2025 20:10:14.552] [main/WARN] [quark-zeta/]: Non-existent flag andesite being used
-[28Jan2025 20:10:14.552] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
-[28Jan2025 20:10:14.553] [main/WARN] [quark-zeta/]: Non-existent flag diorite being used
-[28Jan2025 20:10:14.554] [main/WARN] [quark-zeta/]: Non-existent flag granite being used
-[28Jan2025 20:10:14.554] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
-[28Jan2025 20:10:14.555] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
-[28Jan2025 20:10:14.555] [main/WARN] [quark-zeta/]: Non-existent flag diorite being used
-[28Jan2025 20:10:14.556] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
-[28Jan2025 20:10:14.557] [main/WARN] [quark-zeta/]: Non-existent flag andesite being used
-[28Jan2025 20:10:14.557] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
-[28Jan2025 20:10:14.557] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
-[28Jan2025 20:10:14.560] [main/WARN] [quark-zeta/]: Non-existent flag diorite being used
-[28Jan2025 20:10:14.561] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
-[28Jan2025 20:10:14.561] [main/WARN] [quark-zeta/]: Non-existent flag granite being used
-[28Jan2025 20:10:14.561] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
-[28Jan2025 20:10:14.564] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
-[28Jan2025 20:10:14.565] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
-[28Jan2025 20:10:14.568] [main/WARN] [quark-zeta/]: Non-existent flag andesite being used
-[28Jan2025 20:10:14.569] [main/WARN] [quark-zeta/]: Non-existent flag andesite being used
-[28Jan2025 20:10:14.570] [main/WARN] [quark-zeta/]: Non-existent flag granite being used
-[28Jan2025 20:10:14.570] [main/WARN] [quark-zeta/]: Non-existent flag granite being used
-[28Jan2025 20:10:14.573] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
-[28Jan2025 20:10:14.573] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
-[28Jan2025 20:10:14.574] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
-[28Jan2025 20:10:14.574] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
-[28Jan2025 20:10:14.576] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
-[28Jan2025 20:10:14.578] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
-[28Jan2025 20:10:14.581] [main/WARN] [quark-zeta/]: Non-existent flag granite being used
-[28Jan2025 20:10:14.585] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
-[28Jan2025 20:10:14.586] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
-[28Jan2025 20:10:14.587] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
-[28Jan2025 20:10:14.587] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
-[28Jan2025 20:10:14.588] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
-[28Jan2025 20:10:14.589] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
-[28Jan2025 20:10:14.590] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
-[28Jan2025 20:10:14.592] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
-[28Jan2025 20:10:14.593] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
-[28Jan2025 20:10:14.598] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
-[28Jan2025 20:10:14.599] [main/WARN] [quark-zeta/]: Non-existent flag diorite being used
-[28Jan2025 20:10:14.607] [main/WARN] [quark-zeta/]: Non-existent flag diorite being used
-[28Jan2025 20:10:14.607] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
-[28Jan2025 20:10:14.614] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 26 recipes
-[28Jan2025 20:10:14.648] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/dark_steel_riot_basic_shield: Unknown item id 'enderio:octadic_capacitor'
-[28Jan2025 20:10:14.696] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/basic_mekanists_tower_shield: Unknown item id 'mekanism:energy_tablet'
-[28Jan2025 20:10:14.720] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/dark_steel_riot_tower_shield: Unknown item id 'enderio:octadic_capacitor'
-[28Jan2025 20:10:14.727] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/basic_mekanists_basic_shield: Unknown item id 'mekanism:energy_tablet'
-[28Jan2025 20:10:14.745] [main/INFO] [quark/]: [Automatic Recipe Unlock] Removed 4115 recipe advancements
-[28Jan2025 20:10:14.753] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 553 advancements
-[28Jan2025 20:10:14.779] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 13 curio slots
-[28Jan2025 20:10:14.786] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 10 curio entities
-[28Jan2025 20:10:14.863] [main/INFO] [rechiseled/]: Loaded 44 chiseling recipes
-[28Jan2025 20:10:14.872] [main/INFO] [quark-zeta/]: Modified advancement minecraft:husbandry/wax_on with 2 patches
-[28Jan2025 20:10:14.872] [main/INFO] [quark-zeta/]: Modified advancement minecraft:adventure/kill_a_mob with 3 patches
-[28Jan2025 20:10:14.872] [main/INFO] [quark-zeta/]: Modified advancement minecraft:husbandry/bred_all_animals with 3 patches
-[28Jan2025 20:10:14.872] [main/INFO] [quark-zeta/]: Modified advancement minecraft:adventure/kill_all_mobs with 3 patches
-[28Jan2025 20:10:14.873] [main/INFO] [quark-zeta/]: Modified advancement minecraft:husbandry/balanced_diet with 2 patches
-[28Jan2025 20:10:14.873] [main/INFO] [quark-zeta/]: Modified advancement minecraft:nether/all_effects with 1 patches
-[28Jan2025 20:10:14.873] [main/INFO] [quark-zeta/]: Modified advancement minecraft:husbandry/wax_off with 2 patches
-[28Jan2025 20:10:14.873] [main/INFO] [quark-zeta/]: Modified advancement minecraft:adventure/adventuring_time with 1 patches
-[28Jan2025 20:10:14.873] [main/INFO] [quark-zeta/]: Modified advancement minecraft:nether/all_potions with 1 patches
-[28Jan2025 20:10:23.300] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[28Jan2025 20:10:23.301] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[28Jan2025 20:10:23.301] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[28Jan2025 20:10:23.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[28Jan2025 20:10:23.447] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[28Jan2025 20:10:23.476] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[28Jan2025 20:10:23.566] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[28Jan2025 20:10:23.566] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[28Jan2025 20:10:23.567] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[28Jan2025 20:10:23.567] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[28Jan2025 20:10:23.590] [Server thread/INFO] [Puzzles Lib/]: Loading server config for easymagic
-[28Jan2025 20:10:23.591] [Thread-1/INFO] [Puzzles Lib/]: Reloading server config for easymagic
-[28Jan2025 20:10:23.591] [Thread-1/INFO] [Puzzles Lib/]: Reloading server config for easymagic
-[28Jan2025 20:10:23.599] [Server thread/INFO] [Puzzles Lib/]: Loading server config for magnumtorch
-[28Jan2025 20:10:23.601] [Thread-1/INFO] [Puzzles Lib/]: Reloading server config for magnumtorch
-[28Jan2025 20:10:23.668] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[28Jan2025 20:10:24.690] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[28Jan2025 20:10:24.690] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[28Jan2025 20:10:24.691] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[28Jan2025 20:10:24.692] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[28Jan2025 20:10:24.693] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[28Jan2025 20:10:24.693] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[28Jan2025 20:10:24.694] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[28Jan2025 20:10:24.696] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
-[28Jan2025 20:10:24.696] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[28Jan2025 20:10:24.697] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[28Jan2025 20:10:24.697] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[28Jan2025 20:10:24.698] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[28Jan2025 20:10:24.698] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[28Jan2025 20:10:24.702] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[28Jan2025 20:10:24.703] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[28Jan2025 20:10:24.703] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[28Jan2025 20:10:24.704] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[28Jan2025 20:10:24.704] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[28Jan2025 20:10:24.705] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[28Jan2025 20:10:24.705] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
-[28Jan2025 20:10:24.706] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[28Jan2025 20:10:24.706] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[28Jan2025 20:10:24.706] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
-[28Jan2025 20:10:24.707] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[28Jan2025 20:10:24.707] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
-[28Jan2025 20:10:24.708] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
-[28Jan2025 20:10:24.708] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[28Jan2025 20:10:24.713] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[28Jan2025 20:10:24.714] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[28Jan2025 20:10:24.714] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[28Jan2025 20:10:24.714] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[28Jan2025 20:10:24.715] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[28Jan2025 20:10:24.715] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[28Jan2025 20:10:24.716] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[28Jan2025 20:10:24.716] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[28Jan2025 20:10:24.717] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[28Jan2025 20:10:24.717] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[28Jan2025 20:10:29.276] [Server thread/INFO] [Ksyxis/MinecraftServerMixin/]: Ksyxis: Hey. This is Ksyxis. We will now load the world and will try to do it quickly. If the game is not responding after this, it's probably us to blame or delete for good. This message appears always, even if the mod works flawlessly. (modern)
-[28Jan2025 20:10:29.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[28Jan2025 20:10:29.501] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 224 ms
-[28Jan2025 20:10:29.502] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (5.922s)! For help, type "help"
-[28Jan2025 20:10:29.586] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[28Jan2025 20:10:29.638] [Server thread/INFO] [patchouli/]: Sending reload packet to clients
-[28Jan2025 20:11:19.259] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
-[28Jan2025 20:11:19.341] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: iam[/127.204.221.6:58383] logged in with entity id 263 at (714.4077054692842, 13.0, -478.8772736300722)
-[28Jan2025 20:11:19.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iam joined the game
-[28Jan2025 20:11:19.500] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to iam
-[28Jan2025 20:11:19.523] [Server thread/INFO] [Jade/]: Syncing config to iam (3c3b563d-c762-335c-a4a1-5d85abbdcd0b)
-[28Jan2025 20:11:23.896] [Netty Epoll Server IO #2/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from iam
-[28Jan2025 20:12:25.408] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Marcuss988[/127.92.100.165:43401] logged in with entity id 680 at (37.5, 83.0, -24.5)
-[28Jan2025 20:12:25.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Marcuss988 joined the game
-[28Jan2025 20:12:25.426] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to Marcuss988
-[28Jan2025 20:12:25.435] [Server thread/INFO] [Jade/]: Syncing config to Marcuss988 (41379ac5-3c03-351c-a2d8-9a905780da64)
-[28Jan2025 20:12:26.987] [Netty Epoll Server IO #6/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from Marcuss988
-[28Jan2025 20:12:47.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [iam: Teleported iam to Marcuss988]
-[28Jan2025 20:12:58.872] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2972ms or 59 ticks behind
-[28Jan2025 20:13:00.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcuss988> ños
-[28Jan2025 20:13:00.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Marcuss988 has made the advancement [Minecraft Comes Alive]
-[28Jan2025 20:13:03.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcuss988> la cague
-[28Jan2025 20:13:04.516] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: iam lost connection: Timed out
-[28Jan2025 20:13:04.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iam left the game
-[28Jan2025 20:13:08.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcuss988> espera
-[28Jan2025 20:13:14.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcuss988> tengo que poner la otra cuenta
-[28Jan2025 20:13:16.259] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Marcuss988 lost connection: Disconnected
-[28Jan2025 20:13:16.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Marcuss988 left the game
-[28Jan2025 20:13:45.128] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: iam[/127.204.221.6:41163] logged in with entity id 1303 at (37.5, 83.0, -24.5)
-[28Jan2025 20:13:45.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iam joined the game
-[28Jan2025 20:13:45.162] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to iam
-[28Jan2025 20:13:45.165] [Server thread/INFO] [Jade/]: Syncing config to iam (3c3b563d-c762-335c-a4a1-5d85abbdcd0b)
-[28Jan2025 20:13:47.147] [Netty Epoll Server IO #1/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from iam
-[28Jan2025 20:14:15.203] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: iam lost connection: Timed out
-[28Jan2025 20:14:15.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iam left the game
-[28Jan2025 20:15:36.024] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: iam[/127.204.221.6:52297] logged in with entity id 1608 at (37.5, 83.0, -24.5)
-[28Jan2025 20:15:36.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iam joined the game
-[28Jan2025 20:15:36.064] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to iam
-[28Jan2025 20:15:36.066] [Server thread/INFO] [Jade/]: Syncing config to iam (3c3b563d-c762-335c-a4a1-5d85abbdcd0b)
-[28Jan2025 20:15:38.047] [Netty Epoll Server IO #2/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from iam
-[28Jan2025 20:15:51.558] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6743aa92[id=<null>,name=Marcus_988,properties={},legacy=false] (/127.25.5.127:50511) lost connection: Disconnected
-[28Jan2025 20:16:01.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> a
-[28Jan2025 20:16:02.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> a
-[28Jan2025 20:16:02.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> a
-[28Jan2025 20:16:03.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> a
-[28Jan2025 20:16:03.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> a
-[28Jan2025 20:16:04.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> a
-[28Jan2025 20:16:04.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> a
-[28Jan2025 20:16:04.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> a
-[28Jan2025 20:16:05.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> a
-[28Jan2025 20:16:05.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> a
-[28Jan2025 20:16:06.103] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: iam lost connection: Timed out
-[28Jan2025 20:16:06.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iam left the game
-[28Jan2025 20:16:26.851] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@462f287e[id=<null>,name=Marcus_988,properties={},legacy=false] (/127.25.5.127:53319) lost connection: Disconnected
-[28Jan2025 20:16:39.769] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: iam[/127.204.221.6:37875] logged in with entity id 1873 at (37.5, 83.0, -24.5)
-[28Jan2025 20:16:39.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iam joined the game
-[28Jan2025 20:16:39.795] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to iam
-[28Jan2025 20:16:39.797] [Server thread/INFO] [Jade/]: Syncing config to iam (3c3b563d-c762-335c-a4a1-5d85abbdcd0b)
-[28Jan2025 20:16:41.403] [Netty Epoll Server IO #3/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from iam
-[28Jan2025 20:17:09.853] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: iam lost connection: Timed out
-[28Jan2025 20:17:09.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iam left the game
-[28Jan2025 20:19:28.621] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: iam[/127.204.221.6:35083] logged in with entity id 2153 at (37.5, 83.0, -24.5)
-[28Jan2025 20:19:28.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iam joined the game
-[28Jan2025 20:19:28.650] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to iam
-[28Jan2025 20:19:28.656] [Server thread/INFO] [Jade/]: Syncing config to iam (3c3b563d-c762-335c-a4a1-5d85abbdcd0b)
-[28Jan2025 20:19:30.263] [Netty Epoll Server IO #0/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from iam
-[28Jan2025 20:20:05.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> a
-[28Jan2025 20:21:52.553] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@30bb9100[id=<null>,name=Marcus_988,properties={},legacy=false] (/127.25.5.127:44065) lost connection: Disconnected
-[28Jan2025 20:22:32.703] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6e5c218b[id=<null>,name=Marcus_988,properties={},legacy=false] (/127.92.100.165:44619) lost connection: Disconnected
-[28Jan2025 20:24:06.127] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Marcus_988[/127.19.35.79:50895] logged in with entity id 2569 at (418.9292104672458, 129.0, -649.8031546778012)
-[28Jan2025 20:24:06.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Marcus_988 joined the game
-[28Jan2025 20:24:06.139] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to Marcus_988
-[28Jan2025 20:24:06.141] [Server thread/INFO] [Jade/]: Syncing config to Marcus_988 (abdfa706-479d-3047-a226-350e9072f00e)
-[28Jan2025 20:24:07.632] [Netty Epoll Server IO #7/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from Marcus_988
-[28Jan2025 20:24:30.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> pinga alfin ño
-[28Jan2025 20:24:40.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> viste lo de los hornos?
-[28Jan2025 20:24:48.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> el que cosa
-[28Jan2025 20:24:52.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> ven mira
-[28Jan2025 20:24:55.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> casa
-[28Jan2025 20:24:56.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [iam: Teleported iam to Marcus_988]
-[28Jan2025 20:25:06.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [iam: Teleported iam to Marcus_988]
-[28Jan2025 20:25:06.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> mira lo que tienes ahi
-[28Jan2025 20:25:20.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> en todos
-[28Jan2025 20:25:24.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> pp que bulto de hierro
-[28Jan2025 20:25:32.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> necesito hacerme una armadura nueva
-[28Jan2025 20:25:51.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> necesitamos hacer decoracion tambien pa la casa
-[28Jan2025 20:26:01.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> y en tu inventario debe haver algo creo q un pez de estos
-[28Jan2025 20:26:03.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> a
-[28Jan2025 20:26:07.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> pp tu estas seguro
-[28Jan2025 20:26:09.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> a
-[28Jan2025 20:26:13.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> a
-[28Jan2025 20:26:17.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> que la antorcha hace que no spawneen mobs?
-[28Jan2025 20:26:18.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> a
-[28Jan2025 20:26:24.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> no se e
-[28Jan2025 20:26:29.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> a
-[28Jan2025 20:26:32.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> porque me encontre 2 creepers al salir de la casa
-[28Jan2025 20:26:36.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> y esqueletos
-[28Jan2025 20:26:48.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> en el techo hay otro
-[28Jan2025 20:26:53.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> a
-[28Jan2025 20:26:56.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> me ves lag?
-[28Jan2025 20:26:59.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> no
-[28Jan2025 20:27:03.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> ños
-[28Jan2025 20:27:03.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> vas bien
-[28Jan2025 20:27:08.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> tengo bastantes semillas
-[28Jan2025 20:27:16.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> p tu sabes lo que estaria bien
-[28Jan2025 20:27:19.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> revisa tu inventario
-[28Jan2025 20:27:20.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> hacer como un invernadero
-[28Jan2025 20:27:25.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> como en la cienaga de alejandro
-[28Jan2025 20:27:27.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> revisa tu inventario
-[28Jan2025 20:27:28.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> revisa tu inventario
-[28Jan2025 20:27:34.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> que paso
-[28Jan2025 20:27:46.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> deveria gaver un cubo con un pez
-[28Jan2025 20:28:42.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> pp porque hay un cofre con piedra
-[28Jan2025 20:28:45.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> coge lo que quieras, diamantes hierro esmeraldas
-[28Jan2025 20:28:47.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> y el otro con madera
-[28Jan2025 20:28:52.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> pp no se
-[28Jan2025 20:28:58.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> organisa ocmo quieras
-[28Jan2025 20:29:04.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> hay que hacer un cofre pa los bloques
-[28Jan2025 20:29:39.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> pp mira el pico que tengo, por eso consegui tanto oro y hierro
-[28Jan2025 20:30:08.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> pp esta buenisimo
-[28Jan2025 20:30:11.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> y diamantes?
-[28Jan2025 20:30:11.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> si
-[28Jan2025 20:30:28.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> no esq explore una mira de por arriba no me fui para abajo
-[28Jan2025 20:30:46.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> mira esto
-[28Jan2025 20:31:07.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> pp esta bueno
-[28Jan2025 20:31:07.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> para tradear
-[28Jan2025 20:31:13.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> podemos hacer una mierda esa de aldeanos
-[28Jan2025 20:31:18.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> si
-[28Jan2025 20:31:34.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> no tienes el ajolote?
-[28Jan2025 20:31:42.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> no tienes el ajolote?
-[28Jan2025 20:31:43.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> no tienes el ajolote?
-[28Jan2025 20:31:45.203] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: iam was kicked for floating too long!
-[28Jan2025 20:31:45.253] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: iam lost connection: Flying is not enabled on this server
-[28Jan2025 20:31:45.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iam left the game
-[28Jan2025 20:32:12.473] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: iam[/127.204.221.6:55239] logged in with entity id 3150 at (457.36796866867445, 129.17675927506423, -645.1716122851053)
-[28Jan2025 20:32:12.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iam joined the game
-[28Jan2025 20:32:12.542] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to iam
-[28Jan2025 20:32:12.543] [Server thread/INFO] [Jade/]: Syncing config to iam (3c3b563d-c762-335c-a4a1-5d85abbdcd0b)
-[28Jan2025 20:32:14.144] [Netty Epoll Server IO #0/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from iam
-[28Jan2025 20:32:15.577] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=427, y=129, z=-657} BlockPos{x=426, y=128, z=-657}
-[28Jan2025 20:32:17.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> no tienes el ajolote?
-[28Jan2025 20:32:44.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> si
-[28Jan2025 20:32:51.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> ok
-[28Jan2025 20:32:59.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> tengo trigo
-[28Jan2025 20:33:10.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> en un cofre te deje
-[28Jan2025 20:33:17.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Marcus_988 has made the advancement [A Seedy Place]
-[28Jan2025 20:33:24.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> en un cofre te deje
-[28Jan2025 20:33:24.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> en un cofre te deje
-[28Jan2025 20:34:06.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> en un cofre te deje
-[28Jan2025 20:34:06.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> en un cofre te deje
-[28Jan2025 20:34:07.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> en un cofre te deje
-[28Jan2025 20:34:17.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> trigo
-[28Jan2025 20:34:18.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> el que cisa
-[28Jan2025 20:34:27.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> pp pero yo tengo semillas
-[28Jan2025 20:34:36.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iam has made the advancement [A Seedy Place]
-[28Jan2025 20:34:37.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> vamos a la mina esa?
-[28Jan2025 20:35:06.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> esta es para papas
-[28Jan2025 20:35:18.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> qieee
-[28Jan2025 20:35:34.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> para papas esta
-[28Jan2025 20:36:26.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> tengo una azada con fortuna 2
-[28Jan2025 20:36:29.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> pa que sirve eso
-[28Jan2025 20:36:44.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> te dan mas cosas los cultivos
-[28Jan2025 20:36:51.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> osea mas papas y eso
-[28Jan2025 20:36:57.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> te dan mas cosas los cultivos
-[28Jan2025 20:36:57.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> te dan mas cosas los cultivos
-[28Jan2025 20:36:59.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> osea mas papas y eso
-[28Jan2025 20:37:00.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> osea mas papas y eso
-[28Jan2025 20:37:11.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> vem
-[28Jan2025 20:37:12.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> cuarto
-[28Jan2025 20:37:27.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> traes pico?
-[28Jan2025 20:37:27.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> espera
-[28Jan2025 20:37:30.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> tengo hambrita
-[28Jan2025 20:38:01.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> ya tengo
-[28Jan2025 20:38:02.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> craftea pan
-[28Jan2025 20:38:13.496] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: iam moved wrongly!
-[28Jan2025 20:38:31.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> esto esta muy op e
-[28Jan2025 20:38:45.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> tengo que buscar otro mod para transporte
-[28Jan2025 20:39:09.298] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Marcus_988 moved wrongly!
-[28Jan2025 20:39:51.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> para ala essta explorado ya
-[28Jan2025 20:39:52.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iam has made the advancement [Ashes 'n Bones]
-[28Jan2025 20:39:56.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> vamos paca
-[28Jan2025 20:40:30.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> si encuentras diamante dime
-[28Jan2025 20:40:39.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> para picarlo con mi pico
-[28Jan2025 20:40:43.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> a
-[28Jan2025 20:40:43.107] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: iam lost connection: Timed out
-[28Jan2025 20:40:43.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iam left the game
-[28Jan2025 20:40:43.157] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
-[28Jan2025 20:41:41.117] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: iam[/127.204.221.6:51321] logged in with entity id 4807 at (714.5958082614218, 13.0, -235.7292695212537)
-[28Jan2025 20:41:41.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iam joined the game
-[28Jan2025 20:41:41.166] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to iam
-[28Jan2025 20:41:41.168] [Server thread/INFO] [Jade/]: Syncing config to iam (3c3b563d-c762-335c-a4a1-5d85abbdcd0b)
-[28Jan2025 20:41:42.754] [Netty Epoll Server IO #1/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from iam
-[28Jan2025 20:42:34.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> lapislazuli
-[28Jan2025 20:42:54.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> ños
-[28Jan2025 20:43:02.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> tienes el avion?
-[28Jan2025 20:43:13.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> si
-[28Jan2025 20:43:21.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> vamos a usarlo
-[28Jan2025 20:43:32.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> pp aqui no beo
-[28Jan2025 20:44:25.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> pp
-[28Jan2025 20:44:58.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> creo q si te digo lo que te saltaste te matas
-[28Jan2025 20:45:12.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> pp k cosa
-[28Jan2025 20:45:19.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> zapatos de deporte
-[28Jan2025 20:45:25.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> que es eso
-[28Jan2025 20:45:53.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> aumenta la velocidad y la altura de paso al esprintar
-[28Jan2025 20:46:08.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> soi un caballo ahora
-[28Jan2025 20:46:42.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> diamantes
-[28Jan2025 20:47:27.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> donde
-[28Jan2025 20:47:28.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> diamantes beo
-[28Jan2025 20:47:31.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> donde estoy
-[28Jan2025 20:48:00.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iam has made the advancement [Chest Slayer]
-[28Jan2025 20:48:06.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> que te dio?
-[28Jan2025 20:48:09.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> pp a que no sabes lo que tengo
-[28Jan2025 20:48:18.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> que te dio?
-[28Jan2025 20:48:32.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> prende esto
-[28Jan2025 20:48:49.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Marcus_988 has made the advancement [Quite the Renovation]
-[28Jan2025 20:48:50.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> hnnoooooooooooooo
-[28Jan2025 20:48:53.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iam has made the advancement [Quite the Renovation]
-[28Jan2025 20:49:01.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> dios
-[28Jan2025 20:49:06.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> el puto spawneeer
-[28Jan2025 20:49:12.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> lo que me dio
-[28Jan2025 20:49:26.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> pp cogiste todo mi loot e
-[28Jan2025 20:49:29.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> lingote de manacero
-[28Jan2025 20:49:34.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> 5
-[28Jan2025 20:49:35.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> que cojone es eso
-[28Jan2025 20:49:38.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> es azul?
-[28Jan2025 20:49:41.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> si
-[28Jan2025 20:49:44.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> oscurito
+[29Jan2025 01:44:16.410] [main/WARN] [mixin/]: Reference map 'chiselsandbits.refmap.json' for chisels-and-bits.mixins.json could not be read. If this is a development environment you can ignore this message
+[29Jan2025 01:44:17.886] [main/WARN] [Radium Config/]: Force-disabling mixin 'alloc.blockstate.StateMixin' as option 'mixin.alloc.blockstate' (added by mods [ferritecore]) disables it and children
+[29Jan2025 01:44:18.826] [main/WARN] [mixin/]: Error loading class: dev/ftb/mods/ftbchunks/data/ClaimedChunkManagerImpl (java.lang.ClassNotFoundException: dev.ftb.mods.ftbchunks.data.ClaimedChunkManagerImpl)
+[29Jan2025 01:44:18.827] [main/WARN] [mixin/]: @Mixin target dev.ftb.mods.ftbchunks.data.ClaimedChunkManagerImpl was not found mixins.does_it_tick.json:ClaimedChunkManagerAccessor
+[29Jan2025 01:44:19.026] [main/WARN] [mixin/]: Error loading class: noobanidus/mods/lootr/config/ConfigManager (java.lang.ClassNotFoundException: noobanidus.mods.lootr.config.ConfigManager)
+[29Jan2025 01:44:19.090] [main/INFO] [memoryleakfix/]: [MemoryLeakFix] Will be applying 1 memory leak fixes!
+[29Jan2025 01:44:19.090] [main/INFO] [memoryleakfix/]: [MemoryLeakFix] Currently enabled memory leak fixes: [biomeTemperatureLeak]
+[29Jan2025 01:44:19.444] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.6).
+[29Jan2025 01:44:28.862] [modloading-worker-0/INFO] [scena-forge/]: Initialized scena-forge
+[29Jan2025 01:44:29.630] [modloading-worker-0/INFO] [Collective/]: Loading Collective version 7.87.
+[29Jan2025 01:44:29.663] [modloading-worker-0/INFO] [noisium/]: Loading Noisium.
+[29Jan2025 01:44:29.762] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[29Jan2025 01:44:29.763] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id pandalib:config_sync
+[29Jan2025 01:44:30.001] [modloading-worker-0/INFO] [fallingtrees | Config/]: Successfully loaded config 'fallingtrees_common'
+[29Jan2025 01:44:30.004] [modloading-worker-0/INFO] [fallingtrees | Config/]: Successfully saved config 'fallingtrees_common'
+[29Jan2025 01:44:30.225] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for easymagic:main
+[29Jan2025 01:44:30.238] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for visualworkbench:main
+[29Jan2025 01:44:30.569] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/42a7ad70b1cc371599a0eff744096b8a
+[29Jan2025 01:44:30.570] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/74a5e841822a3a87854ae896a33430d6
+[29Jan2025 01:44:30.575] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/eb3d1e2748533430848cadf0f37c7e9c
+[29Jan2025 01:44:30.580] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/91c8520f19f93b3e8b6a727568e194ab
+[29Jan2025 01:44:30.583] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/8c2784d778293fd482ed84b8aa5fedb9
+[29Jan2025 01:44:30.588] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/ea038224ea783d40b2863f52239e2604
+[29Jan2025 01:44:30.589] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/97ad64b7ecaf33209991c4f031501a58
+[29Jan2025 01:44:30.661] [modloading-worker-0/INFO] [coroutil/]: forge loader environment detected
+[29Jan2025 01:44:30.681] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[29Jan2025 01:44:30.682] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[29Jan2025 01:44:30.817] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for magnumtorch:main
+[29Jan2025 01:44:30.843] [modloading-worker-0/INFO] [Ksyxis/]: Ksyxis: Booting... (platform: Forge, manual: false)
+[29Jan2025 01:44:30.845] [modloading-worker-0/INFO] [Ksyxis/]: Ksyxis: Found Mixin library. (version: 0.8.5)
+[29Jan2025 01:44:30.846] [modloading-worker-0/INFO] [Ksyxis/]: Ksyxis: Ready. As always, this mod will speed up your world loading and might or might not break it.
+[29Jan2025 01:44:30.847] [modloading-worker-0/INFO] [Spartan Shields/]: Constructing Mod: Spartan Shields
+[29Jan2025 01:44:31.107] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for puzzleslib:main
+[29Jan2025 01:44:31.144] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
+[29Jan2025 01:44:31.149] [modloading-worker-0/INFO] [mod.chiselsandbits.forge.Forge/]: Initialized Chisels&Bits - Forge
+[29Jan2025 01:44:31.338] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModBlockEntityTypes/]: Loaded block entity configuration.
+[29Jan2025 01:44:31.388] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModBlocks/]: Loaded block configuration.
+[29Jan2025 01:44:31.402] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModChiselModeGroups/]: Loaded chisel mode group configuration.
+[29Jan2025 01:44:31.813] [modloading-worker-0/INFO] [quark-zeta/]: Discovered 164 modules to load.
+[29Jan2025 01:44:31.814] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Abacus...
+[29Jan2025 01:44:31.822] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Adjustable Chat...
+[29Jan2025 01:44:31.823] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Ambient Discs...
+[29Jan2025 01:44:31.824] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Ancient Tomes...
+[29Jan2025 01:44:31.855] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Ancient Wood...
+[29Jan2025 01:44:31.901] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Armed Armor Stands...
+[29Jan2025 01:44:31.902] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Auto Walk Keybind...
+[29Jan2025 01:44:31.903] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Automatic Recipe Unlock...
+[29Jan2025 01:44:31.904] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Automatic Tool Restock...
+[29Jan2025 01:44:31.916] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Azalea Wood...
+[29Jan2025 01:44:31.920] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Back Button Keybind...
+[29Jan2025 01:44:31.920] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Backpack...
+[29Jan2025 01:44:31.970] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Beacon Redirection...
+[29Jan2025 01:44:31.971] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Better Elytra Rocket...
+[29Jan2025 01:44:31.972] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Big Stone Clusters...
+[29Jan2025 01:44:31.987] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Blossom Trees...
+[29Jan2025 01:44:31.991] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Bottled Cloud...
+[29Jan2025 01:44:31.993] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Buckets Show Inhabitants...
+[29Jan2025 01:44:31.997] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Camera...
+[29Jan2025 01:44:31.999] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Campfires Boost Elytra...
+[29Jan2025 01:44:31.999] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Celebratory Lamps...
+[29Jan2025 01:44:32.000] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Chains Connect Blocks...
+[29Jan2025 01:44:32.000] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Chest Searching...
+[29Jan2025 01:44:32.001] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Chorus Vegetation...
+[29Jan2025 01:44:32.004] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Chute...
+[29Jan2025 01:44:32.006] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Climate Control Remover...
+[29Jan2025 01:44:32.007] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Color Runes...
+[29Jan2025 01:44:32.017] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Compasses Work Everywhere...
+[29Jan2025 01:44:32.018] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Compressed Blocks...
+[29Jan2025 01:44:32.021] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Coral On Cactus...
+[29Jan2025 01:44:32.021] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Corundum...
+[29Jan2025 01:44:32.062] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Crabs...
+[29Jan2025 01:44:32.065] [modloading-worker-0/ERROR] [zeta/]: Client event interface org.violetmoon.zeta.client.event.load.ZClientSetup was found in a non client only class!
+[29Jan2025 01:44:32.065] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Crafter...
+[29Jan2025 01:44:32.067] [modloading-worker-0/ERROR] [zeta/]: Client event interface org.violetmoon.zeta.client.event.load.ZClientSetup was found in a non client only class!
+[29Jan2025 01:44:32.068] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Crate...
+[29Jan2025 01:44:32.069] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Diamond Repair...
+[29Jan2025 01:44:32.070] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Dispensers Place Blocks...
+[29Jan2025 01:44:32.070] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Double Door Opening...
+[29Jan2025 01:44:32.071] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Dragon Scales...
+[29Jan2025 01:44:32.086] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Duskbound Blocks...
+[29Jan2025 01:44:32.094] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Dyeable Item Frames...
+[29Jan2025 01:44:32.096] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Easy Transfering...
+[29Jan2025 01:44:32.096] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Elytra Indicator...
+[29Jan2025 01:44:32.099] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Emotes...
+[29Jan2025 01:44:32.099] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Enchantment Predicates...
+[29Jan2025 01:44:32.099] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Enchantments Begone...
+[29Jan2025 01:44:32.109] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Ender Watcher...
+[29Jan2025 01:44:32.111] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Endermosh Music Disc...
+[29Jan2025 01:44:32.112] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Enhanced Ladders...
+[29Jan2025 01:44:32.113] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Expanded Item Interactions...
+[29Jan2025 01:44:32.114] [modloading-worker-0/ERROR] [zeta/]: Client event interface org.violetmoon.zeta.client.event.load.ZClientSetup was found in a non client only class!
+[29Jan2025 01:44:32.114] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Fairy Rings...
+[29Jan2025 01:44:32.116] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Fallen Logs...
+[29Jan2025 01:44:32.117] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Feeding Trough...
+[29Jan2025 01:44:32.124] [modloading-worker-0/ERROR] [zeta/]: Client event interface org.violetmoon.zeta.client.event.load.ZClientSetup was found in a non client only class!
+[29Jan2025 01:44:32.125] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Forgotten...
+[29Jan2025 01:44:32.134] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Foxhound...
+[29Jan2025 01:44:32.136] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Framed Glass...
+[29Jan2025 01:44:32.137] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Game Nerfs...
+[29Jan2025 01:44:32.137] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Glass Item Frame...
+[29Jan2025 01:44:32.145] [modloading-worker-0/ERROR] [zeta/]: Client event interface org.violetmoon.zeta.client.event.load.ZClientSetup was found in a non client only class!
+[29Jan2025 01:44:32.145] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Glass Shard...
+[29Jan2025 01:44:32.147] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Glimmering Weald...
+[29Jan2025 01:44:32.183] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Gold Bars...
+[29Jan2025 01:44:32.192] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Gold Tools Have Fortune...
+[29Jan2025 01:44:32.194] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Grab Chickens...
+[29Jan2025 01:44:32.195] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Grate...
+[29Jan2025 01:44:32.199] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Gravisand...
+[29Jan2025 01:44:32.201] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Greener Grass...
+[29Jan2025 01:44:32.203] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Hedges...
+[29Jan2025 01:44:32.204] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Hoe Harvesting...
+[29Jan2025 01:44:32.205] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Hollow Logs...
+[29Jan2025 01:44:32.207] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Horses Swim...
+[29Jan2025 01:44:32.207] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Hotbar Changer...
+[29Jan2025 01:44:32.208] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Improved Sponges...
+[29Jan2025 01:44:32.208] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Improved Tooltips...
+[29Jan2025 01:44:32.209] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Industrial Palette...
+[29Jan2025 01:44:32.211] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Inventory Sorting...
+[29Jan2025 01:44:32.211] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Iron Rod...
+[29Jan2025 01:44:32.221] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Item Sharing...
+[29Jan2025 01:44:32.226] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Japanese Palette...
+[29Jan2025 01:44:32.226] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Leaf Carpet...
+[29Jan2025 01:44:32.227] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Lock Rotation...
+[29Jan2025 01:44:32.228] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Long Range Pick Block...
+[29Jan2025 01:44:32.228] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Magma Keeps Concrete Powder...
+[29Jan2025 01:44:32.229] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Magnets...
+[29Jan2025 01:44:32.233] [modloading-worker-0/ERROR] [zeta/]: Client event interface org.violetmoon.zeta.client.event.load.ZClientSetup was found in a non client only class!
+[29Jan2025 01:44:32.234] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Map Washing...
+[29Jan2025 01:44:32.236] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Matrix Enchanting...
+[29Jan2025 01:44:32.244] [modloading-worker-0/ERROR] [zeta/]: Client event interface org.violetmoon.zeta.client.event.load.ZClientSetup was found in a non client only class!
+[29Jan2025 01:44:32.246] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Metal Buttons...
+[29Jan2025 01:44:32.248] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Microcrafting Helper...
+[29Jan2025 01:44:32.248] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Midori...
+[29Jan2025 01:44:32.249] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Monster Box...
+[29Jan2025 01:44:32.250] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module More Banner Layers...
+[29Jan2025 01:44:32.250] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module More Brick Types...
+[29Jan2025 01:44:32.251] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module More Mud Blocks...
+[29Jan2025 01:44:32.251] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module More Note Block Sounds...
+[29Jan2025 01:44:32.252] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module More Potted Plants...
+[29Jan2025 01:44:32.256] [modloading-worker-0/ERROR] [zeta/]: Client event interface org.violetmoon.zeta.client.event.load.ZClientSetup was found in a non client only class!
+[29Jan2025 01:44:32.256] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module More Villagers...
+[29Jan2025 01:44:32.257] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Narrator Readout...
+[29Jan2025 01:44:32.257] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Nether Brick Fence Gate...
+[29Jan2025 01:44:32.257] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Nether Obsidian Spikes...
+[29Jan2025 01:44:32.259] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module New Stone Types...
+[29Jan2025 01:44:32.267] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module No Durability On Cosmetics...
+[29Jan2025 01:44:32.267] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module No More Lava Pockets...
+[29Jan2025 01:44:32.268] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Obsidian Plate...
+[29Jan2025 01:44:32.268] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Overlay Shader...
+[29Jan2025 01:44:32.269] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Parrot Eggs...
+[29Jan2025 01:44:32.269] [modloading-worker-0/ERROR] [zeta/]: Client event interface org.violetmoon.zeta.client.event.load.ZClientSetup was found in a non client only class!
+[29Jan2025 01:44:32.270] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Pat The Dogs...
+[29Jan2025 01:44:32.273] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Pathfinder Maps...
+[29Jan2025 01:44:32.277] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Permafrost...
+[29Jan2025 01:44:32.280] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Petals On Water...
+[29Jan2025 01:44:32.283] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Pickarang...
+[29Jan2025 01:44:32.303] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Pig Litters...
+[29Jan2025 01:44:32.304] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Pipes...
+[29Jan2025 01:44:32.308] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Pistons Move Tile Entities...
+[29Jan2025 01:44:32.312] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Poison Potato Usage...
+[29Jan2025 01:44:32.313] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Quick Armor Swapping...
+[29Jan2025 01:44:32.320] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Rainbow Lamps...
+[29Jan2025 01:44:32.321] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Raw Metal Bricks...
+[29Jan2025 01:44:32.321] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Reacharound Placing...
+[29Jan2025 01:44:32.323] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Redstone Randomizer...
+[29Jan2025 01:44:32.330] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Renewable Spore Blossoms...
+[29Jan2025 01:44:32.333] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Replace Scaffolding...
+[29Jan2025 01:44:32.333] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Rope...
+[29Jan2025 01:44:32.337] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Safer Creatures...
+[29Jan2025 01:44:32.338] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Seed Pouch...
+[29Jan2025 01:44:32.343] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Shear Vines...
+[29Jan2025 01:44:32.373] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Shiba...
+[29Jan2025 01:44:32.373] [modloading-worker-0/ERROR] [zeta/]: Client event interface org.violetmoon.zeta.client.event.load.ZClientSetup was found in a non client only class!
+[29Jan2025 01:44:32.373] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Shingles...
+[29Jan2025 01:44:32.374] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Shulker Packing...
+[29Jan2025 01:44:32.380] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Simple Harvest...
+[29Jan2025 01:44:32.384] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Skull Pikes...
+[29Jan2025 01:44:32.391] [modloading-worker-0/ERROR] [zeta/]: Client event interface org.violetmoon.zeta.client.event.load.ZClientSetup was found in a non client only class!
+[29Jan2025 01:44:32.392] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Slabs To Blocks...
+[29Jan2025 01:44:32.394] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Slime In A Bucket...
+[29Jan2025 01:44:32.397] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Slimes To Magma Cubes...
+[29Jan2025 01:44:32.397] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Snow Golem Player Heads...
+[29Jan2025 01:44:32.399] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Soul Candles...
+[29Jan2025 01:44:32.399] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Soul Sandstone...
+[29Jan2025 01:44:32.399] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Spawner Replacer...
+[29Jan2025 01:44:32.400] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Spiral Spires...
+[29Jan2025 01:44:32.402] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Stonelings...
+[29Jan2025 01:44:32.411] [modloading-worker-0/ERROR] [zeta/]: Client event interface org.violetmoon.zeta.client.event.load.ZClientSetup was found in a non client only class!
+[29Jan2025 01:44:32.411] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Stools...
+[29Jan2025 01:44:32.411] [modloading-worker-0/ERROR] [zeta/]: Client event interface org.violetmoon.zeta.client.event.load.ZClientSetup was found in a non client only class!
+[29Jan2025 01:44:32.412] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Sturdy Stone...
+[29Jan2025 01:44:32.413] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Thatch...
+[29Jan2025 01:44:32.414] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Tiny Potato...
+[29Jan2025 01:44:32.417] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Torch Arrow...
+[29Jan2025 01:44:32.420] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Toretoise...
+[29Jan2025 01:44:32.420] [modloading-worker-0/ERROR] [zeta/]: Client event interface org.violetmoon.zeta.client.event.load.ZClientSetup was found in a non client only class!
+[29Jan2025 01:44:32.423] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Totem Of Holding...
+[29Jan2025 01:44:32.428] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Trowel...
+[29Jan2025 01:44:32.432] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Usage Ticker...
+[29Jan2025 01:44:32.435] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Uses For Curses...
+[29Jan2025 01:44:32.436] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Utility Recipes...
+[29Jan2025 01:44:32.441] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Variant Animal Textures...
+[29Jan2025 01:44:32.442] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Variant Bookshelves...
+[29Jan2025 01:44:32.444] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Variant Chests...
+[29Jan2025 01:44:32.476] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Variant Furnaces...
+[29Jan2025 01:44:32.512] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Variant Ladders...
+[29Jan2025 01:44:32.513] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Variant Selector...
+[29Jan2025 01:44:32.520] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Vertical Planks...
+[29Jan2025 01:44:32.520] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Vertical Slabs...
+[29Jan2025 01:44:32.559] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Vexes Die With Their Masters...
+[29Jan2025 01:44:32.559] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Villager Rerolling Rework...
+[29Jan2025 01:44:32.567] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Villagers Follow Emeralds...
+[29Jan2025 01:44:32.568] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Wooden Posts...
+[29Jan2025 01:44:32.581] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Wool Shuts Up Minecarts...
+[29Jan2025 01:44:32.582] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Wraith...
+[29Jan2025 01:44:32.584] [modloading-worker-0/ERROR] [zeta/]: Client event interface org.violetmoon.zeta.client.event.load.ZClientSetup was found in a non client only class!
+[29Jan2025 01:44:32.584] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Zombie Villagers On Normal...
+[29Jan2025 01:44:32.585] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module More Stone Variants...
+[29Jan2025 01:44:32.585] [modloading-worker-0/INFO] [quark-zeta/]: Constructed 164 modules.
+[29Jan2025 01:44:34.255] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModChiselModes/]: Loaded chisel mode configuration.
+[29Jan2025 01:44:34.258] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModContainerTypes/]: Loaded container type configuration.
+[29Jan2025 01:44:34.263] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModCreativeTabs/]: Loaded item group configuration.
+[29Jan2025 01:44:34.291] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModItems/]: Loaded item configuration.
+[29Jan2025 01:44:34.298] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModMetadataKeys/]: Loaded metadata key configuration.
+[29Jan2025 01:44:34.303] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModModelProperties/]: Loaded model property configuration.
+[29Jan2025 01:44:34.307] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModModificationOperation/]: Loaded modification operation configuration.
+[29Jan2025 01:44:34.309] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModModificationOperationGroups/]: Loaded modification operation group configuration.
+[29Jan2025 01:44:34.318] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModPatternPlacementTypes/]: Loaded pattern placement type configuration.
+[29Jan2025 01:44:34.321] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModRecipeSerializers/]: Loaded recipe serializer configuration.
+[29Jan2025 01:44:34.323] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModTags/]: Loaded tag configuration.
+[29Jan2025 01:44:34.325] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModRecipeTypes/]: Registering recipe types.
+[29Jan2025 01:44:34.327] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModEventHandler/]: Registering event handlers
+[29Jan2025 01:44:38.344] [main/INFO] [Moonlight/]: Initialized block sets in 19ms
+[29Jan2025 01:44:38.729] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / mca:female_zombie_villager] was not realized!
+[29Jan2025 01:44:38.729] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / mca:grim_reaper] was not realized!
+[29Jan2025 01:44:38.729] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / mca:female_villager] was not realized!
+[29Jan2025 01:44:38.729] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / mca:male_villager] was not realized!
+[29Jan2025 01:44:38.730] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / mca:male_zombie_villager] was not realized!
+[29Jan2025 01:44:38.730] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / artifacts:mimic] was not realized!
+[29Jan2025 01:44:38.731] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / artifacts:mimic] was not realized!
+[29Jan2025 01:44:39.611] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[29Jan2025 01:44:39.611] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[29Jan2025 01:44:39.611] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[29Jan2025 01:44:39.611] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[29Jan2025 01:44:39.612] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[29Jan2025 01:44:39.612] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[29Jan2025 01:44:39.612] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[29Jan2025 01:44:39.612] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[29Jan2025 01:44:39.614] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[29Jan2025 01:44:39.614] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[29Jan2025 01:44:39.614] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[29Jan2025 01:44:39.615] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[29Jan2025 01:44:39.615] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[29Jan2025 01:44:39.615] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[29Jan2025 01:44:39.616] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[29Jan2025 01:44:39.616] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[29Jan2025 01:44:39.616] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[29Jan2025 01:44:39.616] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[29Jan2025 01:44:39.616] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[29Jan2025 01:44:39.617] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[29Jan2025 01:44:39.617] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[29Jan2025 01:44:39.621] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[29Jan2025 01:44:39.621] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[29Jan2025 01:44:39.621] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[29Jan2025 01:44:39.621] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[29Jan2025 01:44:39.622] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[29Jan2025 01:44:39.622] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[29Jan2025 01:44:39.622] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[29Jan2025 01:44:39.622] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[29Jan2025 01:44:39.622] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[29Jan2025 01:44:39.623] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[29Jan2025 01:44:39.624] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[29Jan2025 01:44:39.632] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[29Jan2025 01:44:39.634] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[29Jan2025 01:44:39.636] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[29Jan2025 01:44:39.636] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[29Jan2025 01:44:39.636] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[29Jan2025 01:44:39.637] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.GrimReaperEntity from class forge.net.mca.util.network.datasync.CEnumParameter
+[29Jan2025 01:44:39.841] [main/INFO] [Spartan Shields/]: Loading config spartanshields-common.toml
+[29Jan2025 01:44:39.847] [main/INFO] [zeta/]: 'zeta' is enabling Zeta's piston structure resolver.
+[29Jan2025 01:44:40.077] [modloading-worker-0/INFO] [Spartan Shields/]: Setting up Spartan Shields!
+[29Jan2025 01:44:40.084] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwwindows] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/window.json
+[29Jan2025 01:44:40.252] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 1000) with the ID 0
+[29Jan2025 01:44:40.252] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 1000) with the ID 1
+[29Jan2025 01:44:40.253] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for Uncraftable Potion (Fluid Amount Required: 250) with the ID 2
+[29Jan2025 01:44:40.253] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:milk for Milk (Fluid Amount Required: 1000) with the ID 3
+[29Jan2025 01:44:40.316] [main/INFO] [Moonlight/]: Initialized color sets in 54ms
+[29Jan2025 01:44:40.330] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwwindows] Found status: UP_TO_DATE Current: 2.3.0 Target: null
+[29Jan2025 01:44:40.331] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwdoors] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/doors.json
+[29Jan2025 01:44:40.341] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwdoors] Found status: UP_TO_DATE Current: 1.1.1 Target: null
+[29Jan2025 01:44:40.342] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwtrpdoors] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/trapdoors.json
+[29Jan2025 01:44:40.351] [modloading-worker-0/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 1/2 (Server)
+[29Jan2025 01:44:40.356] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[29Jan2025 01:44:40.358] [main/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 2/2 (Server)
+[29Jan2025 01:44:40.358] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[29Jan2025 01:44:40.362] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwtrpdoors] Found status: UP_TO_DATE Current: 1.1.4 Target: null
+[29Jan2025 01:44:40.362] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_tidal_towns] Starting version check at https://api.modrinth.com/updates/EEIwvQVo/forge_updates.json
+[29Jan2025 01:44:40.445] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at ovh.corail.tombstone.compatibility.IntegrationJade
+[29Jan2025 01:44:40.468] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at me.pandamods.fallingtrees.compat.JadePlugin
+[29Jan2025 01:44:40.469] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.blay09.mods.waystones.compat.JadeIntegration
+[29Jan2025 01:44:40.470] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
+[29Jan2025 01:44:40.496] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
+[29Jan2025 01:44:40.501] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
+[29Jan2025 01:44:40.503] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.geforcemods.securitycraft.compat.hudmods.JadeDataProvider
+[29Jan2025 01:44:40.532] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_tidal_towns] Found status: OUTDATED Current: 1.3.4 Target: 1.3.4+mod
+[29Jan2025 01:44:40.532] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
+[29Jan2025 01:44:40.543] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: UP_TO_DATE Current: 8.9.0 Target: null
+[29Jan2025 01:44:40.545] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwfurnitures] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/furniture.json
+[29Jan2025 01:44:40.574] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwfurnitures] Found status: UP_TO_DATE Current: 3.3.0 Target: null
+[29Jan2025 01:44:40.575] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwlights] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/lights.json
+[29Jan2025 01:44:40.593] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwlights] Found status: UP_TO_DATE Current: 1.1.0 Target: null
+[29Jan2025 01:44:40.593] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [radium] Starting version check at https://api.modrinth.com/updates/radium/forge_updates.json
+[29Jan2025 01:44:40.706] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [radium] Found status: AHEAD Current: 0.12.4+git.26c9d8e Target: null
+[29Jan2025 01:44:40.706] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easymagic] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/easymagic.json
+[29Jan2025 01:44:40.719] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easymagic] Found status: UP_TO_DATE Current: 8.0.1 Target: null
+[29Jan2025 01:44:40.719] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [visualworkbench] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/visualworkbench.json
+[29Jan2025 01:44:40.731] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [visualworkbench] Found status: UP_TO_DATE Current: 8.0.0 Target: null
+[29Jan2025 01:44:40.731] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
+[29Jan2025 01:44:40.798] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Found status: UP_TO_DATE Current: 9.1.16 Target: null
+[29Jan2025 01:44:40.798] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzlesaccessapi.json
+[29Jan2025 01:44:40.823] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Found status: BETA Current: 8.0.7 Target: null
+[29Jan2025 01:44:40.823] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[29Jan2025 01:44:40.943] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.3.27
+[29Jan2025 01:44:40.943] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [moonlight] Starting version check at https://raw.githubusercontent.com/MehVahdJukaar/Moonlight/multi-loader/forge/update.json
+[29Jan2025 01:44:40.954] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [moonlight] Found status: BETA Current: 1.20-2.13.47 Target: null
+[29Jan2025 01:44:40.955] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [magnumtorch] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/magnumtorch.json
+[29Jan2025 01:44:40.964] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [magnumtorch] Found status: UP_TO_DATE Current: 8.0.2 Target: null
+[29Jan2025 01:44:40.965] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [ksyxis] Starting version check at https://raw.githubusercontent.com/VidTu/Ksyxis/main/updater_ksyxis_forge.json
+[29Jan2025 01:44:40.985] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [ksyxis] Found status: UP_TO_DATE Current: 1.3.2 Target: null
+[29Jan2025 01:44:40.987] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
+[29Jan2025 01:44:41.139] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: UP_TO_DATE Current: 1.9.12 Target: null
+[29Jan2025 01:44:41.140] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [serversleep_mr] Starting version check at https://api.modrinth.com/updates/Cw8IlnGM/forge_updates.json
+[29Jan2025 01:44:41.218] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [serversleep_mr] Found status: AHEAD Current: 1-datapack Target: null
+[29Jan2025 01:44:41.218] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzleslib.json
+[29Jan2025 01:44:41.230] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Found status: UP_TO_DATE Current: 8.1.25 Target: null
+[29Jan2025 01:44:41.232] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [ad_astra] Starting version check at https://api.modrinth.com/updates/3ufwT9JF/forge_updates.json
+[29Jan2025 01:44:41.401] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [ad_astra] Found status: UP_TO_DATE Current: 1.15.19 Target: null
+[29Jan2025 01:44:56.209] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[29Jan2025 01:45:06.209] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Salmuera/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23269!/assets/.mcassetsroot' uses unexpected schema
+[29Jan2025 01:45:06.210] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Salmuera/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23269!/data/.mcassetsroot' uses unexpected schema
+[29Jan2025 01:45:08.262] [Worker-Main-2/WARN] [artifacts.Artifacts/]: Tag entries for curios:tags/items/magic_book.json cleared by tombstone-1.20.1-8.9.0.jar
+[29Jan2025 01:45:09.741] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
+[29Jan2025 01:45:09.742] [main/WARN] [quark-zeta/]: Non-existent flag granite being used
+[29Jan2025 01:45:09.755] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[29Jan2025 01:45:09.756] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
+[29Jan2025 01:45:09.769] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[29Jan2025 01:45:09.770] [main/WARN] [quark-zeta/]: Non-existent flag andesite being used
+[29Jan2025 01:45:09.771] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[29Jan2025 01:45:09.773] [main/WARN] [quark-zeta/]: Non-existent flag granite being used
+[29Jan2025 01:45:09.774] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
+[29Jan2025 01:45:09.777] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[29Jan2025 01:45:09.783] [main/WARN] [quark-zeta/]: Non-existent flag andesite being used
+[29Jan2025 01:45:09.784] [main/WARN] [quark-zeta/]: Non-existent flag diorite being used
+[29Jan2025 01:45:09.785] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[29Jan2025 01:45:09.795] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[29Jan2025 01:45:09.796] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[29Jan2025 01:45:09.800] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[29Jan2025 01:45:09.803] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
+[29Jan2025 01:45:09.804] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
+[29Jan2025 01:45:09.804] [main/WARN] [quark-zeta/]: Non-existent flag granite being used
+[29Jan2025 01:45:09.806] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[29Jan2025 01:45:09.808] [main/WARN] [quark-zeta/]: Non-existent flag andesite being used
+[29Jan2025 01:45:09.809] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[29Jan2025 01:45:09.811] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[29Jan2025 01:45:09.812] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
+[29Jan2025 01:45:09.813] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[29Jan2025 01:45:09.813] [main/WARN] [quark-zeta/]: Non-existent flag granite being used
+[29Jan2025 01:45:09.814] [main/WARN] [quark-zeta/]: Non-existent flag andesite being used
+[29Jan2025 01:45:09.816] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[29Jan2025 01:45:09.821] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[29Jan2025 01:45:09.826] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[29Jan2025 01:45:09.837] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[29Jan2025 01:45:09.850] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[29Jan2025 01:45:09.851] [main/WARN] [quark-zeta/]: Non-existent flag andesite being used
+[29Jan2025 01:45:09.852] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[29Jan2025 01:45:09.852] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[29Jan2025 01:45:09.852] [main/WARN] [quark-zeta/]: Non-existent flag andesite being used
+[29Jan2025 01:45:09.854] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[29Jan2025 01:45:09.854] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[29Jan2025 01:45:09.855] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[29Jan2025 01:45:09.856] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[29Jan2025 01:45:09.856] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[29Jan2025 01:45:09.858] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[29Jan2025 01:45:09.858] [main/WARN] [quark-zeta/]: Non-existent flag andesite being used
+[29Jan2025 01:45:09.860] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[29Jan2025 01:45:09.860] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[29Jan2025 01:45:09.860] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[29Jan2025 01:45:09.861] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[29Jan2025 01:45:09.862] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[29Jan2025 01:45:09.862] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[29Jan2025 01:45:09.864] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
+[29Jan2025 01:45:09.864] [main/WARN] [quark-zeta/]: Non-existent flag granite being used
+[29Jan2025 01:45:09.869] [main/WARN] [quark-zeta/]: Non-existent flag granite being used
+[29Jan2025 01:45:09.874] [main/WARN] [quark-zeta/]: Non-existent flag granite being used
+[29Jan2025 01:45:09.875] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
+[29Jan2025 01:45:09.877] [main/WARN] [quark-zeta/]: Non-existent flag diorite being used
+[29Jan2025 01:45:09.878] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
+[29Jan2025 01:45:09.882] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[29Jan2025 01:45:09.882] [main/WARN] [quark-zeta/]: Non-existent flag diorite being used
+[29Jan2025 01:45:09.882] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
+[29Jan2025 01:45:09.884] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[29Jan2025 01:45:09.885] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[29Jan2025 01:45:09.887] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
+[29Jan2025 01:45:09.888] [main/WARN] [quark-zeta/]: Non-existent flag andesite being used
+[29Jan2025 01:45:09.889] [main/WARN] [quark-zeta/]: Non-existent flag diorite being used
+[29Jan2025 01:45:09.890] [main/WARN] [quark-zeta/]: Non-existent flag granite being used
+[29Jan2025 01:45:09.893] [main/WARN] [quark-zeta/]: Non-existent flag granite being used
+[29Jan2025 01:45:09.894] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[29Jan2025 01:45:09.896] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[29Jan2025 01:45:09.898] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[29Jan2025 01:45:09.898] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[29Jan2025 01:45:09.899] [main/WARN] [quark-zeta/]: Non-existent flag diorite being used
+[29Jan2025 01:45:09.900] [main/WARN] [quark-zeta/]: Non-existent flag andesite being used
+[29Jan2025 01:45:09.905] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[29Jan2025 01:45:09.906] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[29Jan2025 01:45:09.908] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[29Jan2025 01:45:09.908] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[29Jan2025 01:45:09.909] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
+[29Jan2025 01:45:09.909] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[29Jan2025 01:45:09.912] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
+[29Jan2025 01:45:09.912] [main/WARN] [quark-zeta/]: Non-existent flag diorite being used
+[29Jan2025 01:45:09.913] [main/WARN] [quark-zeta/]: Non-existent flag diorite being used
+[29Jan2025 01:45:09.914] [main/WARN] [quark-zeta/]: Non-existent flag diorite being used
+[29Jan2025 01:45:09.915] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[29Jan2025 01:45:09.916] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
+[29Jan2025 01:45:09.919] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[29Jan2025 01:45:09.920] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
+[29Jan2025 01:45:09.921] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
+[29Jan2025 01:45:09.921] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[29Jan2025 01:45:09.924] [main/WARN] [quark-zeta/]: Non-existent flag andesite being used
+[29Jan2025 01:45:09.924] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[29Jan2025 01:45:09.925] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[29Jan2025 01:45:09.927] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
+[29Jan2025 01:45:09.928] [main/WARN] [quark-zeta/]: Non-existent flag granite being used
+[29Jan2025 01:45:09.929] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[29Jan2025 01:45:09.929] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[29Jan2025 01:45:09.930] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
+[29Jan2025 01:45:09.930] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[29Jan2025 01:45:09.930] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[29Jan2025 01:45:09.931] [main/WARN] [quark-zeta/]: Non-existent flag diorite being used
+[29Jan2025 01:45:09.931] [main/WARN] [quark-zeta/]: Non-existent flag andesite being used
+[29Jan2025 01:45:09.932] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[29Jan2025 01:45:09.933] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[29Jan2025 01:45:09.934] [main/WARN] [quark-zeta/]: Non-existent flag diorite being used
+[29Jan2025 01:45:09.936] [main/WARN] [quark-zeta/]: Non-existent flag andesite being used
+[29Jan2025 01:45:09.936] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
+[29Jan2025 01:45:09.937] [main/WARN] [quark-zeta/]: Non-existent flag diorite being used
+[29Jan2025 01:45:09.937] [main/WARN] [quark-zeta/]: Non-existent flag granite being used
+[29Jan2025 01:45:09.938] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
+[29Jan2025 01:45:09.938] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
+[29Jan2025 01:45:09.939] [main/WARN] [quark-zeta/]: Non-existent flag diorite being used
+[29Jan2025 01:45:09.940] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[29Jan2025 01:45:09.940] [main/WARN] [quark-zeta/]: Non-existent flag andesite being used
+[29Jan2025 01:45:09.941] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
+[29Jan2025 01:45:09.941] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[29Jan2025 01:45:09.944] [main/WARN] [quark-zeta/]: Non-existent flag diorite being used
+[29Jan2025 01:45:09.944] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
+[29Jan2025 01:45:09.944] [main/WARN] [quark-zeta/]: Non-existent flag granite being used
+[29Jan2025 01:45:09.944] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
+[29Jan2025 01:45:09.946] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[29Jan2025 01:45:09.947] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[29Jan2025 01:45:09.950] [main/WARN] [quark-zeta/]: Non-existent flag andesite being used
+[29Jan2025 01:45:09.951] [main/WARN] [quark-zeta/]: Non-existent flag andesite being used
+[29Jan2025 01:45:09.951] [main/WARN] [quark-zeta/]: Non-existent flag granite being used
+[29Jan2025 01:45:09.952] [main/WARN] [quark-zeta/]: Non-existent flag granite being used
+[29Jan2025 01:45:09.955] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
+[29Jan2025 01:45:09.955] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[29Jan2025 01:45:09.956] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[29Jan2025 01:45:09.956] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[29Jan2025 01:45:09.958] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
+[29Jan2025 01:45:09.960] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[29Jan2025 01:45:09.963] [main/WARN] [quark-zeta/]: Non-existent flag granite being used
+[29Jan2025 01:45:09.966] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[29Jan2025 01:45:09.967] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[29Jan2025 01:45:09.967] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[29Jan2025 01:45:09.968] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
+[29Jan2025 01:45:09.969] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[29Jan2025 01:45:09.969] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[29Jan2025 01:45:09.971] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[29Jan2025 01:45:09.972] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
+[29Jan2025 01:45:09.972] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[29Jan2025 01:45:09.977] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
+[29Jan2025 01:45:09.977] [main/WARN] [quark-zeta/]: Non-existent flag diorite being used
+[29Jan2025 01:45:09.983] [main/WARN] [quark-zeta/]: Non-existent flag diorite being used
+[29Jan2025 01:45:09.984] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[29Jan2025 01:45:09.987] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 26 recipes
+[29Jan2025 01:45:10.026] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/dark_steel_riot_basic_shield: Unknown item id 'enderio:octadic_capacitor'
+[29Jan2025 01:45:10.110] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/basic_mekanists_tower_shield: Unknown item id 'mekanism:energy_tablet'
+[29Jan2025 01:45:10.149] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/dark_steel_riot_tower_shield: Unknown item id 'enderio:octadic_capacitor'
+[29Jan2025 01:45:10.156] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/basic_mekanists_basic_shield: Unknown item id 'mekanism:energy_tablet'
+[29Jan2025 01:45:10.177] [main/INFO] [quark/]: [Automatic Recipe Unlock] Removed 4115 recipe advancements
+[29Jan2025 01:45:10.185] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 553 advancements
+[29Jan2025 01:45:10.212] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 13 curio slots
+[29Jan2025 01:45:10.220] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 10 curio entities
+[29Jan2025 01:45:10.282] [main/INFO] [rechiseled/]: Loaded 44 chiseling recipes
+[29Jan2025 01:45:10.290] [main/INFO] [quark-zeta/]: Modified advancement minecraft:husbandry/wax_on with 2 patches
+[29Jan2025 01:45:10.291] [main/INFO] [quark-zeta/]: Modified advancement minecraft:adventure/kill_a_mob with 3 patches
+[29Jan2025 01:45:10.291] [main/INFO] [quark-zeta/]: Modified advancement minecraft:husbandry/bred_all_animals with 3 patches
+[29Jan2025 01:45:10.291] [main/INFO] [quark-zeta/]: Modified advancement minecraft:adventure/kill_all_mobs with 3 patches
+[29Jan2025 01:45:10.292] [main/INFO] [quark-zeta/]: Modified advancement minecraft:husbandry/balanced_diet with 2 patches
+[29Jan2025 01:45:10.292] [main/INFO] [quark-zeta/]: Modified advancement minecraft:nether/all_effects with 1 patches
+[29Jan2025 01:45:10.292] [main/INFO] [quark-zeta/]: Modified advancement minecraft:husbandry/wax_off with 2 patches
+[29Jan2025 01:45:10.292] [main/INFO] [quark-zeta/]: Modified advancement minecraft:adventure/adventuring_time with 1 patches
+[29Jan2025 01:45:10.292] [main/INFO] [quark-zeta/]: Modified advancement minecraft:nether/all_potions with 1 patches
+[29Jan2025 01:45:18.796] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[29Jan2025 01:45:18.797] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[29Jan2025 01:45:18.797] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[29Jan2025 01:45:18.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[29Jan2025 01:45:18.891] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[29Jan2025 01:45:18.984] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[29Jan2025 01:45:19.078] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[29Jan2025 01:45:19.078] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[29Jan2025 01:45:19.078] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[29Jan2025 01:45:19.079] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[29Jan2025 01:45:19.100] [Server thread/INFO] [Puzzles Lib/]: Loading server config for easymagic
+[29Jan2025 01:45:19.106] [Thread-1/INFO] [Puzzles Lib/]: Reloading server config for easymagic
+[29Jan2025 01:45:19.110] [Server thread/INFO] [Puzzles Lib/]: Loading server config for magnumtorch
+[29Jan2025 01:45:19.112] [Thread-1/INFO] [Puzzles Lib/]: Reloading server config for magnumtorch
+[29Jan2025 01:45:19.113] [Thread-1/INFO] [Puzzles Lib/]: Reloading server config for magnumtorch
+[29Jan2025 01:45:19.181] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[29Jan2025 01:45:20.803] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[29Jan2025 01:45:20.804] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[29Jan2025 01:45:20.805] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[29Jan2025 01:45:20.806] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[29Jan2025 01:45:20.807] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[29Jan2025 01:45:20.808] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[29Jan2025 01:45:20.809] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[29Jan2025 01:45:20.810] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[29Jan2025 01:45:20.811] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[29Jan2025 01:45:20.812] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[29Jan2025 01:45:20.813] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[29Jan2025 01:45:20.814] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[29Jan2025 01:45:20.815] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[29Jan2025 01:45:20.815] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[29Jan2025 01:45:20.816] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[29Jan2025 01:45:20.817] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[29Jan2025 01:45:20.818] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[29Jan2025 01:45:20.819] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[29Jan2025 01:45:20.820] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[29Jan2025 01:45:20.821] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[29Jan2025 01:45:20.821] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[29Jan2025 01:45:20.822] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[29Jan2025 01:45:20.823] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[29Jan2025 01:45:20.824] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[29Jan2025 01:45:20.825] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[29Jan2025 01:45:20.825] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[29Jan2025 01:45:20.826] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[29Jan2025 01:45:20.827] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[29Jan2025 01:45:20.828] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[29Jan2025 01:45:20.829] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[29Jan2025 01:45:20.829] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[29Jan2025 01:45:20.830] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[29Jan2025 01:45:20.831] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[29Jan2025 01:45:20.832] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[29Jan2025 01:45:20.833] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[29Jan2025 01:45:20.833] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[29Jan2025 01:45:20.834] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[29Jan2025 01:45:25.178] [Server thread/INFO] [Ksyxis/MinecraftServerMixin/]: Ksyxis: Hey. This is Ksyxis. We will now load the world and will try to do it quickly. If the game is not responding after this, it's probably us to blame or delete for good. This message appears always, even if the mod works flawlessly. (modern)
+[29Jan2025 01:45:25.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[29Jan2025 01:45:25.415] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 235 ms
+[29Jan2025 01:45:25.415] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (6.324s)! For help, type "help"
+[29Jan2025 01:45:25.560] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[29Jan2025 01:45:25.613] [Server thread/INFO] [patchouli/]: Sending reload packet to clients
+[29Jan2025 01:45:49.387] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
+[29Jan2025 01:45:49.511] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Marcus_988[/127.4.226.137:50717] logged in with entity id 276 at (541.1937640481246, -17.0, -342.24205212770886)
+[29Jan2025 01:45:49.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Marcus_988 joined the game
+[29Jan2025 01:45:49.677] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to Marcus_988
+[29Jan2025 01:45:49.710] [Server thread/INFO] [Jade/]: Syncing config to Marcus_988 (abdfa706-479d-3047-a226-350e9072f00e)
+[29Jan2025 01:45:50.978] [Netty Epoll Server IO #3/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from Marcus_988
+[29Jan2025 01:46:15.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> aaa
+[29Jan2025 01:46:19.580] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Marcus_988 lost connection: Disconnected
+[29Jan2025 01:46:19.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Marcus_988 left the game
+[29Jan2025 01:46:19.663] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[29Jan2025 01:49:41.253] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Marcus_988[/127.4.226.137:34255] logged in with entity id 572 at (541.1937640481246, -17.0, -342.24205212770886)
+[29Jan2025 01:49:41.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Marcus_988 joined the game
+[29Jan2025 01:49:41.280] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to Marcus_988
+[29Jan2025 01:49:41.283] [Server thread/INFO] [Jade/]: Syncing config to Marcus_988 (abdfa706-479d-3047-a226-350e9072f00e)
+[29Jan2025 01:49:42.546] [Netty Epoll Server IO #6/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from Marcus_988
+[29Jan2025 01:50:11.380] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Marcus_988 lost connection: Timed out
+[29Jan2025 01:50:11.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Marcus_988 left the game
+[29Jan2025 01:52:25.830] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1d7f8a78[id=<null>,name=Marcus_988,properties={},legacy=false] (/127.4.226.137:57189) lost connection: Disconnected
+[29Jan2025 01:52:52.777] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2e5f3bda[id=<null>,name=Marcus_988,properties={},legacy=false] (/127.4.226.137:47901) lost connection: Disconnected
+[29Jan2025 01:53:53.326] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@420b97cb[id=<null>,name=Marcus_988,properties={},legacy=false] (/127.102.127.82:50095): Took too long to log in
+[29Jan2025 01:53:53.327] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@420b97cb[id=<null>,name=Marcus_988,properties={},legacy=false] (/127.102.127.82:50095) lost connection: Took too long to log in
+[29Jan2025 01:53:53.376] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
