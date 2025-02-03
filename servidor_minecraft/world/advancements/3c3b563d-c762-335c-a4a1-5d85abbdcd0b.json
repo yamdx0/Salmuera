@@ -538,6 +538,18 @@
     },
     "done": true
   },
+  "tombstone:adventure/discreet_search": {
+    "criteria": {
+      "coded_trigger": "2025-02-03 04:59:25 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:spider_dungeon": {
+    "criteria": {
+      "in_better_spider_dungeon": "2025-02-03 05:08:08 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/jar_pixie": {
     "criteria": {
       "jar": "2025-02-03 05:20:51 +0000"
@@ -550,15 +562,9 @@
     },
     "done": true
   },
-  "tombstone:adventure/discreet_search": {
+  "mca:recipes/misc/potions": {
     "criteria": {
-      "coded_trigger": "2025-02-03 04:59:25 +0000"
-    },
-    "done": true
-  },
-  "betterdungeons:spider_dungeon": {
-    "criteria": {
-      "in_better_spider_dungeon": "2025-02-03 05:08:08 +0000"
+      "has_item": "2025-02-03 05:33:55 +0000"
     },
     "done": true
   },
