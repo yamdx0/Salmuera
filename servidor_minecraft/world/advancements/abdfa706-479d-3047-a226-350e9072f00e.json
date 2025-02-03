@@ -620,88 +620,9 @@
     },
     "done": true
   },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "requirement": "2025-02-03 05:35:43 +0000",
-      "log_spam_fixer": "2025-02-03 05:34:53 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-03 05:34:53 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-03 05:34:53 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-03 05:34:53 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-03 05:34:53 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-03 05:34:53 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-03 05:34:53 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-03 05:34:53 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-03 05:34:53 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-03 05:34:53 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-03 05:34:53 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-03 05:34:53 +0000"
-    },
-    "done": false
-  },
   "iceandfire:iceandfire/root": {
     "criteria": {
       "tick": "2025-02-03 04:51:03 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/jar_pixie": {
-    "criteria": {
-      "jar": "2025-02-03 05:19:00 +0000"
     },
     "done": true
   },
@@ -711,9 +632,69 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/jar_pixie": {
+    "criteria": {
+      "jar": "2025-02-03 05:19:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/shoot_arrow": {
     "criteria": {
       "shot_arrow": "2025-02-03 05:27:30 +0000"
+    },
+    "done": true
+  },
+  "botania:main/terrasteel_pickup_lexicon": {
+    "criteria": {
+      "elven_lexicon": "2025-02-03 05:42:54 +0000"
+    },
+    "done": true
+  },
+  "botania:main/mana_pool_pickup_lexicon": {
+    "criteria": {
+      "elven_lexicon": "2025-02-03 05:42:54 +0000"
+    },
+    "done": true
+  },
+  "botania:main/runic_altar_pickup": {
+    "criteria": {
+      "elven_lexicon": "2025-02-03 05:42:54 +0000"
+    },
+    "done": true
+  },
+  "botania:main/pure_daisy_pickup": {
+    "criteria": {
+      "elven_lexicon": "2025-02-03 05:42:54 +0000"
+    },
+    "done": true
+  },
+  "botania:main/flower_pickup_lexicon": {
+    "criteria": {
+      "elven_lexicon": "2025-02-03 05:42:54 +0000"
+    },
+    "done": true
+  },
+  "botania:main/elf_lexicon_pickup": {
+    "criteria": {
+      "lexicon": "2025-02-03 05:42:54 +0000"
+    },
+    "done": true
+  },
+  "botania:main/lexicon_use": {
+    "criteria": {
+      "use_lexicon": "2025-02-03 05:42:22 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_cyclops": {
+    "criteria": {
+      "killed_fire_dragon": "2025-02-03 05:38:55 +0000"
+    },
+    "done": true
+  },
+  "botania:main/apothecary_pickup": {
+    "criteria": {
+      "elven_lexicon": "2025-02-03 05:42:54 +0000"
     },
     "done": true
   },
