@@ -591,46 +591,14 @@
   },
   "betterdungeons:all_dungeons": {
     "criteria": {
-      "in_better_monster_room": "2025-01-28 20:48:49 +0000"
+      "in_better_monster_room": "2025-01-28 20:48:49 +0000",
+      "in_better_spider_dungeon": "2025-02-03 05:08:04 +0000"
     },
     "done": false
   },
   "betterdungeons:small_dungeon": {
     "criteria": {
       "in_better_monster_room": "2025-01-28 20:48:49 +0000"
-    },
-    "done": true
-  },
-  "vs_eureka:recipes/balloon_color": {
-    "criteria": {
-      "has_red_balloon": "2025-02-01 23:02:38 +0000",
-      "has_black_balloon": "2025-02-01 23:02:38 +0000",
-      "has_lime_balloon": "2025-02-01 23:02:38 +0000",
-      "has_cyan_balloon": "2025-02-01 23:02:38 +0000",
-      "has_light_blue_balloon": "2025-02-01 23:02:38 +0000",
-      "has_gray_balloon": "2025-02-01 23:02:38 +0000",
-      "has_pink_balloon": "2025-02-01 23:02:38 +0000",
-      "has_light_gray_balloon": "2025-02-01 23:02:38 +0000",
-      "has_white_balloon": "2025-02-01 23:02:38 +0000",
-      "has_blue_balloon": "2025-02-01 23:02:38 +0000",
-      "has_yellow_balloon": "2025-02-01 23:02:38 +0000",
-      "has_purple_balloon": "2025-02-01 23:02:38 +0000",
-      "has_orange_balloon": "2025-02-01 23:02:38 +0000",
-      "has_brown_balloon": "2025-02-01 23:02:38 +0000",
-      "has_green_balloon": "2025-02-01 23:02:38 +0000",
-      "has_magenta_balloon": "2025-02-01 23:02:38 +0000"
-    },
-    "done": true
-  },
-  "vs_eureka:recipes/ship_helm": {
-    "criteria": {
-      "has_gold": "2025-02-01 23:02:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/lava_bucket": {
-    "criteria": {
-      "lava_bucket": "2025-02-02 07:20:32 +0000"
     },
     "done": true
   },
@@ -643,6 +611,30 @@
   "mca:recipes/misc/blueprint": {
     "criteria": {
       "has_item": "2025-02-02 07:14:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-02-02 07:20:32 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/root": {
+    "criteria": {
+      "tick": "2025-02-03 04:51:03 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/jar_pixie": {
+    "criteria": {
+      "jar": "2025-02-03 05:19:00 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:spider_dungeon": {
+    "criteria": {
+      "in_better_spider_dungeon": "2025-02-03 05:08:04 +0000"
     },
     "done": true
   },
